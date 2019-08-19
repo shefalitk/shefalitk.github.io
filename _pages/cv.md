@@ -25,10 +25,11 @@ Skills
 * Programming Languages: Python, C, C++, Java, JavaScript, SQL
 * Languages: Greek (Native), English (ECPE), French (Sorbonne C1)
 
-Projects
+<!--Projects
 ------
 * [AixPy](https://github.com/gchochla/aixpy): Open-Source Artificial Intelligence Library
   * Personal Project
   * Implemented in Python
   * Early stages of development (as of Aug. 2019)
   * NumPy backbone
+-->
