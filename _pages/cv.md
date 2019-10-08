@@ -13,23 +13,24 @@ Education
 ------
 * MEng in Electrical & Computer Engineering, National Technical University of Athens, Greece, Sep. 2015 - Present (exp. Jul. 2020)
 
+Research Experience
+-----
+* Oct. 2019 - Present
+  * [NCSR Demokritos](https://www.iit.demokritos.gr/)
+  * Research Project: Single Satellite Image to Digital Elevation Model using Deep Learning
+  * [[code]](https://github.com/Panagiotou/ImageToDEM)
+  
+
 Work experience
 ------
-* Jul. - Aug. 2019: Intern
+* July - Aug. 2019: Machine Learning Intern
   * [SCiO Systems](https://scio.systems)
-  * Duties included: MLP research
-  * Supervisor: Pythagoras Karampiperis
+  * Supervisor: [Pythagoras Karampiperis](https://scio.systems/pythagoras/)
+  * Duties included: Feature Engineering & Predictive Modeling
+  * [[code]](https://github.com/SCiO-systems/india-rice-production-igc)
 
 Skills
 ------
 * Programming Languages: Python, C, C++, Java, JavaScript, SQL
-* Languages: Greek (Native), English (ECPE), French (Sorbonne C1)
+* Languages: Greek (Native), English (Fluent), French (Sorbonne C1), Spanish (Elementary)
 
-<!--Projects
-------
-* [AixPy](https://github.com/gchochla/aixpy): Open-Source Artificial Intelligence Library
-  * Personal Project
-  * Implemented in Python
-  * Early stages of development (as of Aug. 2019)
-  * NumPy backbone
--->
