@@ -17,13 +17,13 @@ Education
 
 Research & Work Experience
 ======
-* Oct. 2019 - Present
+* Researcher  Oct. 2019 - Present
   * [NCSR Demokritos](https://www.iit.demokritos.gr/)
   * Supervisor: [Eleni Charou](http://demokritos.academia.edu/elenicharou)
   * Research Project: Single Satellite Image to Digital Elevation Model using Deep Learning
   * [[code]](https://github.com/Panagiotou/ImageToDEM)
   
-* July - Aug. 2019: Machine Learning Intern
+* Machine Learning Intern   July - Aug. 2019
   * [SCiO Systems](https://scio.systems)
   * Supervisor: [Pythagoras Karampiperis](https://scio.systems/pythagoras/)
   * Duties included: Feature Engineering & Predictive Modeling
