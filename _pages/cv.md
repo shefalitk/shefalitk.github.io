@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc - M.Eng. in Electrical & Computer Engineering, National Technical University of Athens, Greece, Sep. 2015 - Present (exp. Jul. 2020)
   * Concentration: Computer Science
-  * Thesis (on-going): "<i>Cognitive-inspired approaches to Multimodal One-Shot Learning in Deep Neural Networks<\i>", Advisor: Alexandros Potamianos
+  * Thesis (on-going): "<i>Cognitive-inspired approaches to Multimodal One-Shot Learning in Deep Neural Networks</i>", Advisor: Alexandros Potamianos
 
 Research & Work Experience
 ======
