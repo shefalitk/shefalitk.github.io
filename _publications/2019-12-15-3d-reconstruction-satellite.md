@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2019-12-15-3d-reconstruction-satellite
 excerpt: 'Conditional Generative Adversarial Network to predict 3D attributes (Digital Elevation Model) from satellite images.'
 date: 2019-12-15
-venue: 'Remote Sensing and Space Applications Committee of Greece'
-published: 'false'
+venue: 'RSSA2020'
+published: 'true'
 paperurl: 
 citation: 'E. Panagiotou, G. Chochlakis, E. Charou. <i>Reconstructing the 3-dimensional geometry of rural areas based on a single satellite image using Generative Adversarial Networks</i>, in <i>Remote Sensing and Space Applications Committee of Greece</i>, 2019.'
 ---
