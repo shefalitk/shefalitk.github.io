@@ -20,8 +20,8 @@ Research & Work Experience
 * Researcher during Oct. 2019 - Present
   * [NCSR Demokritos](https://www.iit.demokritos.gr/)
   * Supervisor: [Eleni Charou](http://demokritos.academia.edu/elenicharou)
-  * Research Project: Single Satellite Image to Digital Elevation Model using Deep Learning
-  * [[code]](https://github.com/Panagiotou/ImageToDEM)
+  * Research Project: Generating Elevation Surface from a Single RGB remotely sensed image using Deep Learning
+  * [presentation](https://gchochla.github.io/files/rssa2020-presentation.odp) [[code]](https://github.com/Panagiotou/ImageToDEM)
   
 * Machine Learning Intern during July - Aug. 2019
   * [SCiO Systems](https://scio.systems)
