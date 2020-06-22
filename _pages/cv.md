@@ -13,7 +13,7 @@ Education
 ------
 * B.Sc - M.Eng. in Electrical & Computer Engineering, National Technical University of Athens, Greece, Sep. 2015 - Present (exp. Jul. 2020)
   * Concentration: Computer Science
-  * Thesis (on-going): "<i>Cognitive-inspired approaches to Multimodal One-Shot Learning in Deep Neural Networks</i>", Advisor: Alexandros Potamianos
+  * Thesis (on-going): _Generative Multimodal Representations_, Advisor: Alexandros Potamianos
 
 Research & Work Experience
 ------
@@ -21,7 +21,7 @@ Research & Work Experience
   * [NCSR Demokritos](https://www.iit.demokritos.gr/)
   * Supervisor: [Eleni Charou](http://demokritos.academia.edu/elenicharou)
   * Research Project: Generating Elevation Surface from a Single RGB remotely sensed image using Deep Learning
-  * [presentation](https://gchochla.github.io/files/rssa2020-presentation.odp) [[code]](https://github.com/Panagiotou/ImageToDEM)
+  * [paper](https://www.mdpi.com/2072-4292/12/12/2002/pdf) [presentation](https://gchochla.github.io/files/rssa2020-presentation.odp) [[code]](https://github.com/Panagiotou/ImageToDEM)
   
 * Machine Learning Intern during July - Aug. 2019
   * [SCiO Systems](https://scio.systems)
