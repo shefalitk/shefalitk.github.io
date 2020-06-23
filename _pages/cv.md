@@ -17,7 +17,7 @@ Education
 
 Research & Work Experience
 ------
-* Researcher during Oct. 2019 - Present
+* Researcher during Oct. 2019 - June 2020
   * [NCSR Demokritos](https://www.iit.demokritos.gr/)
   * Supervisor: [Eleni Charou](http://demokritos.academia.edu/elenicharou)
   * Research Project: Generating Elevation Surface from a Single RGB remotely sensed image using Deep Learning
