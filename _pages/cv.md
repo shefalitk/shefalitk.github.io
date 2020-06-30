@@ -13,7 +13,7 @@ Education
 ------
 * B.Sc - M.Eng. in Electrical & Computer Engineering, National Technical University of Athens, Greece, Sep. 2015 - Present (exp. Jul. 2020)
   * Concentration: Computer Science
-  * Thesis (on-going): _Generative Multimodal Representations_, Advisor: Alexandros Potamianos
+  * Thesis (on-going): _Transferable Representation Learning_, Advisor: _Alexandros Potamianos_
 
 Research & Work Experience
 ------
