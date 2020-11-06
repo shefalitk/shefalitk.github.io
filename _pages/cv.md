@@ -12,6 +12,7 @@ redirect_from:
 Education
 ------
 * B.Sc - M.Eng in Electrical & Computer Engineering, National Technical University of Athens, Greece, Sep. 2015 - Oct. 2020
+  * Cumulative Grade: 9.56 / 10.0
   * Major: Computer Science
   * Thesis: _Using Artificial Neural Networks for Zero-shot Learning_, Advisor: _Alexandros Potamianos_
 
