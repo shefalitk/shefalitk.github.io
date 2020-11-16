@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : "Person"
   name                   : "Machine Studying"
-  links: "machine-studying.blogspot.com/"
+  links: ["machine-studying.blogspot.com/"]
 
 
 # Analytics
