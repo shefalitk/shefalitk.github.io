@@ -66,9 +66,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : Machine Studying
+  links: "machine-studying.blogspot.com/"
 
 
 # Analytics
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Georgios Chochlakis"
   avatar           : "profile.png"
-  bio              : "MEng in ECE from NTUA, philosophizing about Natural and Artificial Intelligence "
+  bio              : "MEng in ECE from NTUA, ML researcher"
   location         : "Keratsini, Greece"
-  employer         : "Demokritos NCSR"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=z1k5qo8AAAAJ"
   email            : "georgioschochlakis@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
