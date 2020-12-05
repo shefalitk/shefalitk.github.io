@@ -48,6 +48,8 @@ redirect_from:
   </tr>
 </table>
 
+<hr>
+
 <table>
   <tr>
     <th colspan=2> Research & Work Experience </th>
@@ -74,12 +76,16 @@ redirect_from:
   </tr>
 </table>
 
+<hr>
+
 <table>
   <tr><th> Publications </th></tr>
    {% for post in site.publications %}
     <tr><td>{% include archive-single-cv.html %}</td></tr>
   {% endfor %}
 </table>
+
+<hr>
 
 Languages
 ------
@@ -89,6 +95,13 @@ Skills
 ------
 * Programming Languages: 🐍 Python, 🇨 C/C++, ♨️ Java, 🇯🇸 JavaScript, 🐬 SQL
 * Frameworks: 🔥 PyTorch
+
+Miscellaneous
+-----
+* Sports ⚽ | 🏀 | 👟
+* Books 📖 -> popular science 🥼 | AI 🤖 | history 📜 | philosophy 💭 | crime 🔫
+* Video Games (sorta) 🐭⚡ | ⚽ | 🏀 | ...
+
 
 [View in pdf form](https://gchochla.github.io/files/resume.pdf)
 
