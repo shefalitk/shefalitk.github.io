@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Georgios Chochlakis"
 title_separator          : "-"
 name                     : &name "Georgios Chochlakis"
-description              : &description "MEng in Electrical & Computer Engineering from National Technical University of Athens"
+description              : &description "BSc & MEng in Electrical & Computer Engineering from National Technical University of Athens"
 url                      : https://gchochla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gchochla.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Georgios Chochlakis"
   avatar           : "profile.png"
-  bio              : "MEng in ECE from NTUA, ML researcher"
+  bio              : "MEng in ECE from NTUA; ML researcher"
   location         : "Keratsini, Greece"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z1k5qo8AAAAJ"
   email            : "georgioschochlakis@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://thinking-ai-aloud.blogspot.com/"
   bitbucket        :
   codepen          :
   dribbble         :
