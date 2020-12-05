@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <table>
   <tr>
-    <th colspan=2 style="text-align: center"> Education </th>
+    <th colspan=2 style="text-align: center; font-size: 40px;"> Education </th>
   </tr>
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/el/6/6d/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%9C%CE%B5%CF%84%CF%83%CF%8C%CE%B2%CE%B5%CE%B9%CE%BF_%CE%A0%CE%BF%CE%BB%CF%85%CF%84%CE%B5%CF%87%CE%BD%CE%B5%CE%AF%CE%BF.svg" width=100 height=100></a></td>
