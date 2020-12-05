@@ -31,9 +31,8 @@ redirect_from:
 </style>
 
 {% include base_path %}
-<!-- table width auto; no with in img td; table border: none; tr, td border none; td padding: 1.5em-->
 
-<table style="width: auto; border: none !important;">
+<table>
   <tr>
     <th colspan=2> Education </th>
   </tr>
@@ -49,7 +48,7 @@ redirect_from:
   </tr>
 </table>
 
-<table style="width: auto; border: none !important;">
+<table>
   <tr>
     <th colspan=2> Research & Work Experience </th>
   </tr>
