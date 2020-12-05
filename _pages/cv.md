@@ -98,9 +98,9 @@ Skills
 
 Miscellaneous
 -----
-* Sports ⚽ | 🏀 | 👟
+* Sports  ⚽ 🏀 👟
 * Books 📖 -> popular science 🥼 | AI 🤖 | history 📜 | philosophy 💭 | crime 🔫
-* Video Games (sorta) 🐭⚡ | ⚽ | 🏀 | ...
+* Video Games (sorta)  🐭⚡ ⚽ 🏀 ...
 
 
 [View in pdf form](https://gchochla.github.io/files/resume.pdf)
