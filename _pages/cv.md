@@ -7,8 +7,14 @@ redirect_from:
   - /resume
 ---
 
+<style>
+  td, th {
+    border: none;
+  }
+
 {% include base_path %}
 <!-- table width auto; no with in img td; table border: none; tr, td border none; td padding: 1.5em-->
+
 <table style="width: auto; border: none !important;">
   <tr>
     <th colspan=2 style="font-size: 30px;"> Education </th>
