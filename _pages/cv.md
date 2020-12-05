@@ -53,7 +53,7 @@ redirect_from:
 <table>
   <tr><th> Publications </th></tr>
    {% for post in site.publications %}
-    <tr><td>{% include archive-single-cv.html %}</td></tr>
+    <tr><td style="text-align: center">{% include archive-single-cv.html %}</td></tr>
   {% endfor %}
 </table>
 
