@@ -11,7 +11,7 @@ redirect_from:
 <!-- table width auto; no with in img td; table border: none; tr, td border none; td padding: 1.5em-->
 <table style="width: auto; border: none !important;">
   <tr>
-    <th colspan=2 style="text-align: center; font-size: 30px;"> Education </th>
+    <th colspan=2 style="font-size: 30px;"> Education </th>
   </tr>
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/el/6/6d/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%9C%CE%B5%CF%84%CF%83%CF%8C%CE%B2%CE%B5%CE%B9%CE%BF_%CE%A0%CE%BF%CE%BB%CF%85%CF%84%CE%B5%CF%87%CE%BD%CE%B5%CE%AF%CE%BF.svg" width=100 height=100 style="display: block; margin-left: auto; margin-right: auto;"></a></td>
@@ -27,7 +27,7 @@ redirect_from:
 
 <table style="width: auto; border: none !important;">
   <tr>
-    <th colspan=2 style="text-align: center; font-size: 30px;"> Research & Work Experience </th>
+    <th colspan=2 style="font-size: 30px;"> Research & Work Experience </th>
   </tr>
   <tr>
     <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="https://ambio.gr/wp-content/uploads/2018/05/Demokritos-logo-640x428.jpg" width=100 height=100 style="display: block; margin-left: auto; margin-right: auto;"></a></td>
@@ -52,7 +52,7 @@ redirect_from:
 </table>
 
 <table style="width: auto; border: none !important;">
-  <tr><th style="text-align: center; font-size: 30px;"> Publications </th></tr>
+  <tr><th style="font-size: 30px;"> Publications </th></tr>
    {% for post in site.publications %}
     <tr><td>{% include archive-single-cv.html %}</td></tr>
   {% endfor %}
