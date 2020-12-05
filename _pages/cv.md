@@ -11,6 +11,7 @@ redirect_from:
   td, th {
     border: none;
   }
+</style>
 
 {% include base_path %}
 <!-- table width auto; no with in img td; table border: none; tr, td border none; td padding: 1.5em-->
