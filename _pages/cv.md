@@ -64,6 +64,7 @@ Languages
 Skills
 ------
 * Programming Languages: 🐍 Python, 🇨 C/C++, ♨️ Java, 🇯🇸 JavaScript, 🐬 SQL
+* Frameworks: 🔥 PyTorch
 
 [View in pdf form](https://gchochla.github.io/files/resume.pdf)
 
