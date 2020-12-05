@@ -17,6 +17,10 @@ redirect_from:
     font-size: 30px;
   }
   
+  td{
+    padding: 1.5em;
+  }
+  
   td, th {
     border: none;
   }
@@ -99,7 +103,9 @@ Skills
 Miscellaneous
 -----
 * Sports  ⚽ 🏀 👟
-* Books 📖 -> popular science 🥼 | AI 🤖 | history 📜 | philosophy 💭 | crime 🔫
+
+* Books 📖 -> popular science🥼  AI🤖  history📜  philosophy💭  crime🔫
+
 * Video Games (sorta)  🐭⚡ ⚽ 🏀 ...
 
 
