@@ -45,6 +45,7 @@ redirect_from:
     <td><b>National Technical University of Athens, Greece</b>  <br/>
       <i>B.Sc - M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
       September 2015 -- October 2020 <br/>
+      <i>Major</i>: Computer Science <br/>
       <i>Cumulative GPA</i>: <b>9.56</b> / 10 <br/>
       <i>Thesis</i>: <a href="http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17793/1/el15133_ntua_undergrad_thesis.pdf" target="_blank"> Using Artificial Neural Networks for Zero-shot Learning </a> <br/>
       <i>Advisor</i>: <a href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
