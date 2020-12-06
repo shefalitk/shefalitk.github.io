@@ -41,7 +41,7 @@ redirect_from:
     <th colspan=2> Education </th>
   </tr>
   <tr>
-    <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="https://github.com/gchochla/gchochla.github.io/blob/master/images/emp-logo.svg"></a></td>
+    <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
     <td><b>National Technical University of Athens, Greece</b>  <br/>
       <i>B.Sc - M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
       September 2015 -- October 2020 <br/>
