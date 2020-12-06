@@ -41,7 +41,7 @@ redirect_from:
     <th colspan=2> Education </th>
   </tr>
   <tr>
-    <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/el/6/6d/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%9C%CE%B5%CF%84%CF%83%CF%8C%CE%B2%CE%B5%CE%B9%CE%BF_%CE%A0%CE%BF%CE%BB%CF%85%CF%84%CE%B5%CF%87%CE%BD%CE%B5%CE%AF%CE%BF.svg"></a></td>
+    <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="https://github.com/gchochla/gchochla.github.io/blob/master/images/emp-logo.svg"></a></td>
     <td><b>National Technical University of Athens, Greece</b>  <br/>
       <i>B.Sc - M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
       September 2015 -- October 2020 <br/>
@@ -59,7 +59,7 @@ redirect_from:
     <th colspan=2> Research & Work Experience </th>
   </tr>
   <tr>
-    <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="https://ambio.gr/wp-content/uploads/2018/05/Demokritos-logo-640x428.jpg"></a></td>
+    <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="https://github.com/gchochla/gchochla.github.io/blob/master/images/demokritos-ncsr-logo.png"></a></td>
     <td><b>Demokritos National Center for Scientific Research</b> <br/>
       <i>Research intern</i> at <i>Institute of Informatics & Telecommunications</i> <br/>
       October 2019 -- June 2020 <br/>
@@ -69,7 +69,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td><a href="https://scio.systems/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF57OfJap8sAA/company-logo_200_200/0?e=2159024400&v=beta&t=3wJACTU4Ax1DrnTJTUNc2Nx56R1MhkSM8NIwXjiNODk"></a></td>
+    <td><a href="https://scio.systems/" target="_blank"><img src="https://github.com/gchochla/gchochla.github.io/blob/master/images/scio-logo.png"></a></td>
     <td><b>SCiO P.C.</b> <br/>
       <i>Machine Learning intern</i> <br/>
       July 2019 -- August 2019 <br/>
