@@ -64,7 +64,7 @@ redirect_from:
       <i>Research intern</i> at <i>Institute of Informatics & Telecommunications</i> <br/>
       October 2019 -- June 2020 <br/>
       <i>Duties</i>: Remote Sensing applications of Computer Vision and Deep Learning <br/>
-      <i>Body of Work</i>: <a href="" target="_blank"> paper </a> with <a href="https://github.com/Panagiotou/ImageToDEM" target="_blank">code</a> <br/>
+      <i>Body of Work</i>: <a href="" target="_blank">paper</a> with <a href="https://github.com/Panagiotou/ImageToDEM" target="_blank">code</a> <br/>
       <i>Advisor</i>: <a href="https://users.iit.demokritos.gr/~exarou/" target="_blank">Dr. Eleni Charou</a>
     </td>
   </tr>
