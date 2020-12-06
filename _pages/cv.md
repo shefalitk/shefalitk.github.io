@@ -59,7 +59,7 @@ redirect_from:
     <th colspan=2> Research & Work Experience </th>
   </tr>
   <tr>
-    <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="https://github.com/gchochla/gchochla.github.io/blob/master/images/demokritos-ncsr-logo.png"></a></td>
+    <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="../images/demokritos-ncsr-logo.png"></a></td>
     <td><b>Demokritos National Center for Scientific Research</b> <br/>
       <i>Research intern</i> at <i>Institute of Informatics & Telecommunications</i> <br/>
       October 2019 -- June 2020 <br/>
@@ -69,7 +69,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td><a href="https://scio.systems/" target="_blank"><img src="https://github.com/gchochla/gchochla.github.io/blob/master/images/scio-logo.png"></a></td>
+    <td><a href="https://scio.systems/" target="_blank"><img src="../images/scio-logo.png"></a></td>
     <td><b>SCiO P.C.</b> <br/>
       <i>Machine Learning intern</i> <br/>
       July 2019 -- August 2019 <br/>
