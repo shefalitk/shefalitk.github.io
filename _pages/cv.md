@@ -43,7 +43,7 @@ redirect_from:
   </tr>
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
-    <td><b>National Technical University of Athens, Greece</b>  <br/>
+    <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
       <i>B.Sc - M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
       September 2015 -- October 2020 (5yrs1mo) <br/>
       <i>Major</i>: Computer Science <br/>
@@ -62,7 +62,7 @@ redirect_from:
   </tr>
   <tr>
     <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="../images/demokritos-ncsr-logo.png"></a></td>
-    <td><b>Demokritos National Center for Scientific Research</b> <br/>
+    <td><b>Demokritos National Center for Scientific Research</b>, Athens, Greece <br/>
       <i>Research intern</i> at <i>Institute of Informatics & Telecommunications</i> <br/>
       October 2019 -- June 2020 (9mos) <br/>
       <i>Duties</i>: Remote Sensing applications of Computer Vision and Deep Learning <br/>
@@ -72,7 +72,7 @@ redirect_from:
   </tr>
   <tr>
     <td><a href="https://scio.systems/" target="_blank"><img src="../images/scio-logo.png"></a></td>
-    <td><b>SCiO P.C.</b> <br/>
+    <td><b>SCiO P.C.</b>, Athens, Greece <br/>
       <i>Machine Learning intern</i> <br/>
       July 2019 -- August 2019 (2mos) <br/>
       <i>Duties</i>: Feature Engineering and Predictive Modeling for Rice production in India <br/>
