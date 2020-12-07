@@ -30,6 +30,7 @@ redirect_from:
     margin-left: auto;
     margin-right: auto;
     width: 120px;
+    min-width: 45px;
     height: auto;
   }
 </style>
