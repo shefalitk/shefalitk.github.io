@@ -12,6 +12,6 @@ Welcome 👋! You have wandered into my personal website. Here, you will find th
 
 Broadly, I am interested in Computer Vision 👀, Generative modeling 🖼️, Reinforcement Learning 🤯, Conversational AI 🗣️, and their applications in Embodied AI and Robotics 🦿. I am also interested in mathematically principled Machine Learning 🔍 (Learning theory, optimization, etc).
 
-Currently, I am a ML engineer in [Behavioral Signal Technologies](https://behavioralsignals.com/), working on Speech Diarization in telephone calls. 
+Currently, I am a ML engineer at [Behavioral Signal Technologies](https://behavioralsignals.com/), working on Speech Diarization in telephone calls. 
 
 You can also catch me at my Machine Learning blog, [*Thinking AIoud*](https://thinking-ai-aloud.blogspot.com/) 💭, where I examine basic Machine and Deep Learning concepts in depth.
