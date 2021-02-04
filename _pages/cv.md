@@ -64,7 +64,7 @@ redirect_from:
     <td><a href="https://behavioralsignals.com/" target="_blank"><img src="../images/bst-logo.png"></a></td>
     <td><b>Behavioral Signal Technologies</b>, Los Angeles, CA, USA <br/>
       <i>Machine Learning engineer</i> <br/>
-      December 2020 -- Present <br/>
+      December 2020 -- Present (1mo)<br/>
       <i>Duties</i>: Speech Diarization in phone calls <br/>
     </td>
   </tr>
@@ -84,15 +84,6 @@ redirect_from:
 <table>
   <tr>
     <th colspan=2> Research Experience </th>
-  </tr>
-  <tr>
-    <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="../images/demokritos-ncsr-logo.png"></a></td>
-    <td><b>Demokritos National Center for Scientific Research</b>, Athens, Greece <br/>
-      <i>Internship manager</i> at the <i>Institute of Informatics & Telecommunications</i> <br/>
-      December 2020 -- Present <br/>
-      <i>Duties</i>: Advising undergraduate internships and theses <br/>
-      <i>Advisor</i>: <a href="https://users.iit.demokritos.gr/~exarou/" target="_blank">Dr. Eleni Charou</a>
-    </td>
   </tr>
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
