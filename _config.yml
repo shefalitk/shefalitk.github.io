@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "gchochla"
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -90,7 +90,7 @@ author:
   email            : "georgioschochlakis@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://thinking-ai-aloud.blogspot.com/"
-  bitbucket        :
+  bitbucket        : "gchochla"
   codepen          :
   dribbble         :
   flickr           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 10935152/georgios-chochlakis
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "gchochla"
   vine             :
   weibo            :
   xing             :
