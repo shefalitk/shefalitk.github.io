@@ -7,7 +7,7 @@ date: 2021-02-08
 venue: ''
 published: 'false'
 paperurl: https://arxiv.org/pdf/2102.04379.pdf
-citation: 'Chochlakis G., Georgiou E., Potamianos A. End-to-end Generative Zero-shot Learning via Few-shot Learning. arXiv preprint arXiv:2102.04379, 2021'
+citation: 'Chochlakis G., Georgiou E., Potamianos A. End-to-end Generative Zero-shot Learning via Few-shot Learning. arXiv preprint arXiv:2102.04379, 2021.'
 ---
 
 <img src="https://gchochla.github.io/images/z2fsl-pipeline-wbg.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
