@@ -91,7 +91,7 @@ redirect_from:
       <i>Undergraduate Research assistant</i> at the <i>Speech and Language Processing group</i> <br/>
       March 2020 -- November 2020 (9mos) <br/>
       <i>Duties</i>: Sample-efficient Learning research <br/>
-      <i>Body of Work</i>: paper (coming soon...) with <a href="https://github.com/gchochla/z2fsl" target="_blank">code</a> <br/>
+      <i>Body of Work</i>: paper (<a href="https://arxiv.org/pdf/2102.04379.pdf" target="_blank">preprint</a>) with <a href="https://github.com/gchochla/z2fsl" target="_blank">code</a> <br/>
       <i>Advisor</i>: <a href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
     </td>
   </tr>
