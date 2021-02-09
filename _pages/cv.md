@@ -45,7 +45,7 @@ redirect_from:
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
     <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
       <i>B.Sc - M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
-      September 2015 -- October 2020 (5yrs1mo) <br/>
+      September 2015 -- October 2020 (5yrs) <br/>
       <i>Major</i>: Computer Science <br/>
       <i>Cumulative GPA</i>: <b>9.56</b> / 10 <br/>
       <i>Thesis</i>: <a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/52318/chochlakis_thesis.pdf?sequence=4&isAllowed=y" target="_blank"> Using Artificial Neural Networks for Zero-shot Learning </a> <br/>
