@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/e2e-gen-zsl-via-fsl
 excerpt: 'Reducing Zero-shot Learning to Few-shot Learning using the generator of a generative Zero-shot Learning approach'
 date: 2021-02-08
-venue: ''
+venue: 'Anonymous venue'
 published: 'false'
 paperurl: https://arxiv.org/pdf/2102.04379.pdf
 citation: 'Chochlakis G., Georgiou E., Potamianos A. End-to-end Generative Zero-shot Learning via Few-shot Learning. arXiv preprint arXiv:2102.04379, 2021'
