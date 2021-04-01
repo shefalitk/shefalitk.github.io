@@ -41,6 +41,21 @@ redirect_from:
   <tr>
     <th colspan=2> Education </th>
   </tr>
+    <tr>
+    <td><a href="https://www.usc.edu/" target="_blank"><img src="../images/usc-logo.png"></a></td>
+    <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
+      <i>Ph.D</i> in <i>Computer Science</i> <br/>
+      Starting in Fall of 2011 <br/>
+      <i>Advisor</i>: <a href="https://sail.usc.edu/people/shri.html" target="_blank">Prof. Shri Narayanan</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.usc.edu/" target="_blank"><img src="../images/usc-logo.png"></a></td>
+    <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
+      <i>M.Sc</i> in <i>Computer Science</i> <br/>
+      Starting in Fall of 2011 <br/>
+    </td>
+  </tr>
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
     <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
