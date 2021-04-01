@@ -59,7 +59,7 @@ redirect_from:
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
     <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
-      <i>B.Sc & M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
+      <i>Joint B.Sc & M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
       September 2015 -- October 2020 (5yrs) <br/>
       <i>Major</i>: Computer Science <br/>
       <i>Cumulative GPA</i>: <b>9.56</b> / 10 <br/>
@@ -77,7 +77,7 @@ redirect_from:
   </tr>
   <tr>
     <td><a href="https://behavioralsignals.com/" target="_blank"><img src="../images/bst-logo.png"></a></td>
-    <td><b>Behavioral Signal Technologies</b>, Los Angeles, CA, USA <br/>
+    <td><b>Behavioral Signal Technologies</b>, Los Angeles, CA, U.S.A. <br/>
       <i>Machine Learning engineer</i> <br/>
       December 2020 -- Present (3mos)<br/>
       <i>Duties</i>: Speech Diarization in phone calls <br/>
