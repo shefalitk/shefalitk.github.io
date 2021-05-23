@@ -41,7 +41,7 @@ redirect_from:
   <tr>
     <th colspan=2> Education </th>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://www.usc.edu/" target="_blank"><img src="../images/usc-logo.png"></a></td>
     <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
       <i>Ph.D.</i> in <i>Computer Science</i> <br/>
@@ -99,6 +99,14 @@ redirect_from:
 <table>
   <tr>
     <th colspan=2> Research Experience </th>
+  </tr>
+  <tr>
+    <td><a href="https://www.usc.edu/" target="_blank"><img src="../images/usc-logo.png"></a></td>
+    <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
+      <i>Graduate Research Assistant</i> at the <i><a href="https://sail.usc.edu/" target="_blank">Signal Analysis and Interpretation Lab</a></i> <br/>
+      May 2021 -- Present <br/>
+      <i>Duties</i>: Affective behavior analysis
+    </td>
   </tr>
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
