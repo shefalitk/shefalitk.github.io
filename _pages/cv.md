@@ -80,7 +80,7 @@ redirect_from:
     <td><b>Behavioral Signal Technologies</b>, Los Angeles, CA, U.S.A. <br/>
       <i>Machine Learning engineer</i> <br/>
       December 2020 -- Present (5mos)<br/>
-      <i>Duties</i>: Speech Diarization in phone calls <br/>
+      <i>Duties</i>: Speech Diarization in phone calls, Feature engineering and modeling of speakers in phone calls <br/>
     </td>
   </tr>
   <tr>
