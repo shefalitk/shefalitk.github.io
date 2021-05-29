@@ -106,6 +106,7 @@ redirect_from:
       <i>Graduate Research Assistant</i> at the <i><a href="https://sail.usc.edu/" target="_blank">Signal Analysis and Interpretation Lab</a></i> <br/>
       May 2021 -- Present <br/>
       <i>Duties</i>: Affective behavior analysis
+      <i>Advisor</i>: <a href="https://sail.usc.edu/people/shri.html" target="_blank">Prof. Shri Narayanan</a>
     </td>
   </tr>
   <tr>
