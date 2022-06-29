@@ -54,6 +54,7 @@ redirect_from:
     <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
       <i>M.Sc.</i> in <i>Computer Science</i> <br/>
       August 2021 -- Present <br/>
+      <i>Current GPA</i>: <b>4.0</b> / 4.0 <br/>
     </td>
   </tr>
   <tr>
