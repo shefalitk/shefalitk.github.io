@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           {% if post.published == 'false' %}
             {% if post.venue != '' %}
-              <p>Submitted in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+              <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
               <p> Under review </p>
             {% endif %}
