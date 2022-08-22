@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/vault
 excerpt: 'We propose the Vision-and-Augmented-Language Transformer (VAuLT). VAuLT is an extension of the popular Vision-and-Language Transformer (ViLT), with the key insight being to propagate the output representations of a large language model like BERT to the language input of ViLT.'
 date: 2022-06-16
-venue: 'Anonymous'
+venue: ''
 published: 'false'
 paperurl: https://arxiv.org/abs/2208.09021
 citation: 'Chochlakis, G.; Srinivasan, T.; Thomason, J.; and Narayanan, S. 2022. VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations. arXiv preprint arXiv:2208.09021.'
