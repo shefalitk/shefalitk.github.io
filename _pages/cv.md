@@ -37,6 +37,8 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="float:right"> View in <a href="https://gchochla.github.io/files/resume.pdf" target="_blank"><img src="../images/PDF_icon.png" style="width:10px"></a> </div>
+
 <table>
   <tr>
     <th colspan=2> Education </th>
@@ -159,7 +161,3 @@ Miscellaneous
 * Books 📖 -> popular science🥼  AI🤖  history📜  philosophy💭  crime🔫
 
 * Video Games (sorta)  🐭⚡ ⚽ 🏀 ...
-
-
-[View in pdf form](https://gchochla.github.io/files/resume.pdf)
-
