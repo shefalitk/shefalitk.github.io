@@ -108,8 +108,10 @@ redirect_from:
     <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
       <i>Graduate Research Assistant</i> at the <i><a href="https://sail.usc.edu/" target="_blank">Signal Analysis and Interpretation Lab</a></i> <br/>
       May 2021 -- Present <br/>
-      <i>Duties</i>: Multilingual & Multimodal Affective Analysis on Social Media | Resurrected and running the reading group of the lab with 15-20 active members | Actively mentoring 2 undergraduate and 1 graduate students (currently at Microsoft) | IEEE K-12 Outreach programs: Presented in Spring 22 campus visit to approx. 90 students, *Team Lead* in Fall 22 campus visit for approx. 80 students
-      <br/>
+      <i>Duties</i>: Multilingual & Multimodal Affective Analysis on Social Media <br/>
+      ... Resurrected and running the reading group of the lab with 15-20 active members <br/>
+      ... Actively mentoring 2 undergraduate and 1 graduate students (currently at Microsoft) <br/>
+      ... IEEE K-12 Outreach programs: Presented in Spring 22 to 90 students, *Team Lead* in Fall 22 for approx. 80 students <br/>
       <i>Advisor</i>: <a href="https://sail.usc.edu/people/shri.html" target="_blank">Prof. Shri Narayanan</a>
     </td>
   </tr>
