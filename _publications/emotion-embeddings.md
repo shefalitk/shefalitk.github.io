@@ -1,7 +1,7 @@
 ---
 title: 'Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats'
 collection: publications
-permalink: /publication/vault
+permalink: /publication/emotion-embeddings
 excerpt: 'In this work, we study how we can build a single emotion recognition model that can transition between different configurations, i.e., languages, emotions, and annotation formats, by leveraging multilingual models and Demux.'
 date: 2022-11-01
 venue: ''

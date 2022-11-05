@@ -1,7 +1,7 @@
 ---
 title: 'Leveraging Label Correlations in a Multi-label Setting: A Case Study in Emotion'
 collection: publications
-permalink: /publication/vault
+permalink: /publication/label-correlations
 excerpt: 'We develop two modeling approaches to emotion recognition in order to capture word associations of the emotion words themselves, by either including the emotions in the input, or by leveraging Masked Language Modeling (MLM). Second, we integrate pairwise constraints of emotion representations as regularization terms alongside the classification loss of the models.'
 date: 2022-10-28
 venue: ''
