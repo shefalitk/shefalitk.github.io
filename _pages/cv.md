@@ -91,7 +91,7 @@ redirect_from:
     <td><b>SCiO P.C.</b>, Athens, Greece <br/>
       <i>Machine Learning intern</i> <br/>
       July 2019 -- August 2019 (2mos) <br/>
-      <i>Duties</i>: Feature Engineering and Predictive Modeling for Rice production in India <br/>
+      <i>Duties</i>: Feature Engineering and Predictive Modeling for rice production in India <br/>
       <i>Body of Work</i>: <a href="https://github.com/SCiO-systems/india-rice-production-igc" target="_blank">code</a> <br/>
       <i>Supervisor</i>: <a href="https://scio.systems/pythagoras/" target="_blank">Dr. Pythagoras Karampiperis</a>
     </td>
@@ -108,7 +108,7 @@ redirect_from:
     <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
       <i>Graduate Research Assistant</i> at the <i><a href="https://sail.usc.edu/" target="_blank">Signal Analysis and Interpretation Lab</a></i> <br/>
       May 2021 -- Present <br/>
-      <i>Duties</i>: Multilingual & Multimodal Affective Analysis on Social Media, Undergrad mentoring, Outreach programs <br/>
+      <i>Duties</i>: <ul><li>Multilingual & Multimodal Affective Analysis on Social Media</li><li>Resurrected and running the reading group of the lab with 15-20 active members</li><li>Actively mentoring 1 undergraduate and 1 graduate student (currently at Microsoft)<li>IEEE K-12 Outreach programs: Presented in Spring 22 campus visit to approx. 90 students, *Team Lead* in Fall 22 campus visit for approx. 80 students</li> <br/>
       <i>Advisor</i>: <a href="https://sail.usc.edu/people/shri.html" target="_blank">Prof. Shri Narayanan</a>
     </td>
   </tr>
@@ -137,8 +137,28 @@ redirect_from:
 <hr>
 
 <table>
+  <tr>
+    <th colspan=2> Awards </th>
+  </tr>
+  <tr>
+    <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
+    <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
+      <i>Highest GPA in school of ECE</i>, Thomaidis Foundation Grant
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
+    <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
+      <i>Publication Award</i>, Thomaidis Foundation Grant
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table>
   <tr><th> Publications </th></tr>
-   {% for post in site.publications %}
+   {% for post in site.publications reversed %}
     <tr><td>{% include archive-single-cv.html %}</td></tr>
   {% endfor %}
 </table>
@@ -151,8 +171,8 @@ Languages
 
 Skills
 ------
-* Programming Languages: 🐍 Python, 🇨 C/C++, ♨️ Java, 🇯🇸 JavaScript, 🐬 SQL
-* Frameworks: 🔥 PyTorch
+* Programming Languages: Now mostly 🐍 Python, but have worked with 🇨 C/C++, ♨️ Java, 🇯🇸 JavaScript, 🐬 SQL
+* Frameworks: 🔥 PyTorch and the likes (NumPy, ...)
 
 Miscellaneous
 -----
