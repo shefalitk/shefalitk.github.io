@@ -25,6 +25,4 @@ BibTex Citation
   journal={arXiv preprint arXiv:2211.00171},
   year={2022}
 }
-}
-
 ```
