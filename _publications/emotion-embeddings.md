@@ -19,7 +19,7 @@ _Abstract_: The need for emotional inference from text continues to diversify as
 BibTex Citation
 -
 ```
-@article{chochlakis2022leveraging,
+@article{chochlakis2022emotion,
   title={Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats},
   author={Chochlakis, Georgios and Mahajan, Gireesh and Baruah, Sabyasachee and Burghardt, Keith and Lerman, Kristina and Narayanan, Shrikanth},
   journal={arXiv preprint arXiv:2211.00171},
