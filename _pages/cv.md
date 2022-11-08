@@ -153,7 +153,7 @@ redirect_from:
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
     <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
-      2019 <br/>
+      2020 <br/>
       <i>Publication Award</i>, Thomaidis Foundation Grant
     </td>
   </tr>
