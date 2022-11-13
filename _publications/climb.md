@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/climb-benchmark
 excerpt: 'Continual learning is a challenging learning setting, but has been underexplored in the vision-and-language domain. We introduce CLiMB🧗, the Continual Learning in Multimodality Benchmark, to enable the development of multimodal models that learn continually.'
 date: 2022-06-16
-venue: 'NeurIPS Track Datasets and Benchmarks'
+venue: 'NeurIPS'
 published: 'accepted'
 paperurl: https://openreview.net/pdf?id=FhqzyGoTSH
 citation: 'Srinivasan, T., Chang, T. Y., Alva, L. L. P., Chochlakis, G., Rostami, M., & Thomason, J. (2022). CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks. arXiv preprint arXiv:2206.09059.'
