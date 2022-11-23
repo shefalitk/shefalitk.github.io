@@ -57,6 +57,9 @@ redirect_from:
       <i>M.Sc.</i> in <i>Computer Science</i> <br/>
       August 2021 -- Present <br/>
       <i>Current GPA</i>: <b>4.0</b> / 4.0 <br/>
+      <i>Coursework</i>: CSCI-670 (Advanced Analysis of Algorithms), PSYC-626 (Computational Social Sciences), </br>
+      ... CSCI-699 (Grounding Natural Language), CSCI-534 (Affective Computing), </br>
+      ... EE-546 (Mathematics of High-Dimensional Data; on-going) </br>
     </td>
   </tr>
   <tr>
@@ -68,6 +71,9 @@ redirect_from:
       <i>Cumulative GPA</i>: <b>9.56</b> / 10 <br/>
       <i>Thesis</i>: <a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/52318/chochlakis_thesis.pdf?sequence=4&isAllowed=y" target="_blank"> Using Artificial Neural Networks for Zero-shot Learning </a> <br/>
       <i>Advisor</i>: <a href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
+      <i>Selected Coursework</i>: Neural Networks and Intelligent Systems, Pattern Recognition, Computer Vision, </br>
+      ... Advanced Computer Architecture, Advanced Algorithms, Distributed Systems, Information Theory, </br>
+      ... Advanced Topics in Databases, Operating Systems Laboratory, Robotics I: Analysis-Control-Laboratory
     </td>
   </tr>
 </table>
