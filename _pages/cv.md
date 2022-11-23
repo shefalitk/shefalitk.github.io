@@ -70,7 +70,7 @@ redirect_from:
       <i>Major</i>: Computer Science <br/>
       <i>Cumulative GPA</i>: <b>9.56</b> / 10 <br/>
       <i>Thesis</i>: <a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/52318/chochlakis_thesis.pdf?sequence=4&isAllowed=y" target="_blank"> Using Artificial Neural Networks for Zero-shot Learning </a> <br/>
-      <i>Advisor</i>: <a href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
+      <i>Advisor</i>: <a href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a> <br/>
       <i>Selected Coursework</i>: Neural Networks and Intelligent Systems, Pattern Recognition, Computer Vision, <br/>
       ... Advanced Computer Architecture, Advanced Algorithms, Distributed Systems, Information Theory, <br/>
       ... Advanced Topics in Databases, Operating Systems Laboratory, Robotics I: Analysis-Control-Laboratory <br/>
