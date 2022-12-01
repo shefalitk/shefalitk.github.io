@@ -153,7 +153,6 @@ redirect_from:
     <td><a href="https://nips.cc" target="_blank"><img src="../images/neurips.png"></a></td>
     <td><b>NeurIPS</b> 2022<br/>
       <i>Top reviewer</i> <br/>
-      (<font size="-3">To verify, you need to contact <a href="mailto: support@neurips.cc">support@neurips.cc</a>, trying to resolve this...</font>)
     </td>
   </tr>
   <tr>
