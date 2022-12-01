@@ -155,6 +155,8 @@ redirect_from:
       <i>Top reviewer</i> <br/>
       (<font size="-3">To verify, you need to contact <a href="mailto: support@neurips.cc">support@neurips.cc</a>, trying to resolve this...</font>)
     </td>
+  </tr>
+  <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
     <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
       2019 -- 2020 <br/>
