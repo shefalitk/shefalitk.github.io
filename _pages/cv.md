@@ -147,9 +147,14 @@ redirect_from:
 
 <table>
   <tr>
-    <th colspan=2> Awards </th>
+    <th colspan=2> Honors & Awards </th>
   </tr>
   <tr>
+    <td><a href="https://nips.cc" target="_blank"><img src="../images/neurips.png"></a></td>
+    <td><b>NeurIPS</b> 2022<br/>
+      <i>Top reviewer</i> <br/>
+      (<font size="-3">To verify, you need to contact <a href="mailto: support@neurips.cc">support@neurips.cc</a>, trying to resolve this...</font>)
+    </td>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/emp-logo.svg"></a></td>
     <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
       2019 -- 2020 <br/>
