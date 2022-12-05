@@ -54,7 +54,7 @@ layout: default
         {% endif %}
         {% elsif page.published == 'accepted' %}
         <p>To appear in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.published == 'true' %}
+        {% elsif page.published == 'true' %}
         <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% else %}
         <p>Posted on <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
