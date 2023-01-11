@@ -7,7 +7,7 @@ date: 2022-10-28
 venue: ''
 published: 'review'
 paperurl: https://arxiv.org/abs/2208.09021
-citation: 'Chochlakis, G.; Srinivasan, T.; Thomason, J.; and Narayanan, S. 2022. VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations. arXiv preprint arXiv:2208.09021.'
+citation: 'Chochlakis, G.; Srinivasan, T.; Thomason, J.; and Narayanan, S. 2022. VAuLT: Augmenting the Vision-and-Language Transformer for Sentiment Classification on Social Media. arXiv preprint arXiv:2208.09021.'
 ---
 
 <img src="https://gchochla.github.io/images/vault.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
