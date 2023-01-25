@@ -7,7 +7,7 @@ date: 2022-06-16
 venue: 'NeurIPS'
 published: 'true'
 paperurl: https://arxiv.org/abs/2206.09059
-citation: 'Srinivasan, T., Chang, T. Y., Alva, L. L. P., Chochlakis, G., Rostami, M., & Thomason, J. (2022). CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks. arXiv preprint arXiv:2206.09059.'
+citation: 'Srinivasan, T., Chang, T. Y., Alva, L. L. P., Chochlakis, G., Rostami, M., & Thomason, J. (2022). CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks. Thirty-sixth Conference on Neural Information Processing Systems.'
 ---
 
 <img src="https://gchochla.github.io/images/climb.jpg" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
@@ -19,11 +19,10 @@ _Abstract_: Current state-of-the-art vision-and-language models are evaluated on
 BibTex Citation
 -
 ```
-@article{srinivasan2022climb,
+@inproceedings{srinivasan2022climb,
   title={CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks},
   author={Srinivasan, Tejas and Chang, Ting-Yun and Alva, Leticia Leonor Pinto and Chochlakis, Georgios and Rostami, Mohammad and Thomason, Jesse},
-  journal={arXiv preprint arXiv:2206.09059},
-  year={2022}
+  booktitle={Thirty-sixth Conference on Neural Information Processing Systems}
 }
 
 ```
