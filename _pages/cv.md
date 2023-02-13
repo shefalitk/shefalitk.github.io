@@ -118,6 +118,7 @@ redirect_from:
       ... Resurrected and running the reading group of the lab with 15-20 active members <br/>
       ... Actively mentoring 2 undergraduate and 2 graduate students (one graduate currently at Microsoft) <br/>
       ... IEEE K-12 Outreach programs: Presented in Spring 22 to 90 students, *Team Lead* in Fall 22 for approx. 90 students <br/>
+      ... Google ExploreCSR: Student mentor in Spring 23 to 50 students <br/>
       <i>Advisor</i>: <a href="https://sail.usc.edu/people/shri.html" target="_blank">Prof. Shri Narayanan</a>
     </td>
   </tr>
