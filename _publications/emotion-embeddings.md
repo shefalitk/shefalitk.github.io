@@ -3,9 +3,9 @@ title: 'Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languag
 collection: publications
 permalink: /publication/emotion-embeddings
 excerpt: 'In this work, we study how we can build a single emotion recognition model that can transition between different configurations, i.e., languages, emotions, and annotation formats, by leveraging multilingual models and Demux.'
-date: 2022-11-01
-venue: ''
-published: 'review'
+date: 2023-06-04
+venue: 'ICASSP'
+published: 'accepted'
 paperurl: https://arxiv.org/abs/2211.00171
 citation: 'Chochlakis, G., Mahajan, G., Baruah, S., Burghardt, K., Lerman, K. and Narayanan, S., 2022. Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats. arXiv preprint arXiv:2211.00171.'
 ---

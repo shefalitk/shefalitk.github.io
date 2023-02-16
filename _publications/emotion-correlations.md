@@ -3,9 +3,9 @@ title: 'Leveraging Label Correlations in a Multi-label Setting: A Case Study in 
 collection: publications
 permalink: /publication/label-correlations
 excerpt: 'We develop two modeling approaches to emotion recognition in order to capture word associations of the emotion words themselves, by either including the emotions in the input, or by leveraging Masked Language Modeling (MLM). Second, we integrate pairwise constraints of emotion representations as regularization terms alongside the classification loss of the models.'
-date: 2022-10-28
-venue: ''
-published: 'review'
+date: 2023-06-04
+venue: 'ICASSP'
+published: 'accepted'
 paperurl: https://arxiv.org/abs/2210.15842
 citation: 'Chochlakis, G., Mahajan, G., Baruah, S., Burghardt, K., Lerman, K. and Narayanan, S., 2022. Leveraging Label Correlations in a Multi-label Setting: A Case Study in Emotion. arXiv preprint arXiv:2210.15842.'
 ---
