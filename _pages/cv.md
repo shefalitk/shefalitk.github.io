@@ -85,6 +85,13 @@ redirect_from:
     <th colspan=2> Work Experience </th>
   </tr>
   <tr>
+    <td><a href="https://aws.amazon.com/" target="_blank"><img src="../images/aws-logo.png"></a></td>
+    <td><b>Amazon Web Services</b>, Santa Clara, CA, U.S.A. <br/>
+      <i>Applied Science intern</i> <br/>
+      Scheduled for May 2023 -- August 2023 (3mos)<br/>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://behavioralsignals.com/" target="_blank"><img src="../images/bst-logo.png"></a></td>
     <td><b>Behavioral Signal Technologies</b>, Los Angeles, CA, U.S.A. <br/>
       <i>Machine Learning engineer</i> <br/>
