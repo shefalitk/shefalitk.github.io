@@ -5,7 +5,7 @@ permalink: /publication/emotion-embeddings
 excerpt: 'In this work, we study how we can build a single emotion recognition model that can transition between different configurations, i.e., languages, emotions, and annotation formats, by leveraging multilingual models and Demux.'
 date: 2023-06-04
 venue: 'ICASSP'
-published: 'accepted'
+published: 'true'
 paperurl: https://arxiv.org/abs/2211.00171
 citation: 'Chochlakis, G., Mahajan, G., Baruah, S., Burghardt, K., Lerman, K. and Narayanan, S., 2022. Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats. arXiv preprint arXiv:2211.00171.'
 ---
@@ -19,10 +19,14 @@ _Abstract_: The need for emotional inference from text continues to diversify as
 BibTex Citation
 -
 ```
-@article{chochlakis2022emotion,
-  title={Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats},
+@INPROCEEDINGS{chochlakis2023emotion,
   author={Chochlakis, Georgios and Mahajan, Gireesh and Baruah, Sabyasachee and Burghardt, Keith and Lerman, Kristina and Narayanan, Shrikanth},
-  journal={arXiv preprint arXiv:2211.00171},
-  year={2022}
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Using Emotion Embeddings to Transfer Knowledge between Emotions, Languages, and Annotation Formats}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49357.2023.10095597}
 }
 ```

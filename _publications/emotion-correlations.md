@@ -5,7 +5,7 @@ permalink: /publication/label-correlations
 excerpt: 'We develop two modeling approaches to emotion recognition in order to capture word associations of the emotion words themselves, by either including the emotions in the input, or by leveraging Masked Language Modeling (MLM). Second, we integrate pairwise constraints of emotion representations as regularization terms alongside the classification loss of the models.'
 date: 2023-06-04
 venue: 'ICASSP'
-published: 'accepted'
+published: 'true'
 paperurl: https://arxiv.org/abs/2210.15842
 citation: 'Chochlakis, G., Mahajan, G., Baruah, S., Burghardt, K., Lerman, K. and Narayanan, S., 2022. Leveraging Label Correlations in a Multi-label Setting: A Case Study in Emotion. arXiv preprint arXiv:2210.15842.'
 ---
@@ -24,10 +24,14 @@ _Abstract_: Detecting emotions expressed in text has become critical to a range 
 BibTex Citation
 -
 ```
-@article{chochlakis2022leveraging,
-  title={Leveraging Label Correlations in a Multi-label Setting: A Case Study in Emotion},
+@INPROCEEDINGS{chochlakis2023leveraging,
   author={Chochlakis, Georgios and Mahajan, Gireesh and Baruah, Sabyasachee and Burghardt, Keith and Lerman, Kristina and Narayanan, Shrikanth},
-  journal={arXiv preprint arXiv:2210.15842},
-  year={2022}
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Leveraging Label Correlations in a Multi-Label Setting: a Case Study in Emotion}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49357.2023.10096864}
 }
 ```

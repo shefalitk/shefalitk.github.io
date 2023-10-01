@@ -88,7 +88,8 @@ redirect_from:
     <td><a href="https://aws.amazon.com/" target="_blank"><img src="../images/aws-logo.png"></a></td>
     <td><b>Amazon Web Services</b>, Santa Clara, CA, U.S.A. <br/>
       <i>Applied Science intern</i> <br/>
-      Scheduled for May 2023 -- August 2023 (3mos)<br/>
+      May 2023 -- August 2023 (3mos)<br/>
+      <i>Duties</i>: Developed methods for robustness in audio-visual representation learning.
     </td>
   </tr>
   <tr>
@@ -156,6 +157,12 @@ redirect_from:
 <table>
   <tr>
     <th colspan=2> Honors & Awards </th>
+  </tr>
+  <tr>
+    <td><a href="http://gerondelisfoundation.com" target="_blank"><img src="../images/gerondelis.png"></a></td>
+    <td><b>Gerondelis Foundation</b><br/>
+      2023-2024 <br/>
+      <i>Scholarship</i>
   </tr>
   <tr>
     <td><a href="https://nips.cc" target="_blank"><img src="../images/neurips.png"></a></td>
