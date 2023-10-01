@@ -163,6 +163,7 @@ redirect_from:
     <td><b>Gerondelis Foundation</b><br/>
       2023-2024 <br/>
       <i>Scholarship</i>
+    </td>
   </tr>
   <tr>
     <td><a href="https://nips.cc" target="_blank"><img src="../images/neurips.png"></a></td>
