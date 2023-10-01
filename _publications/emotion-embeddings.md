@@ -7,7 +7,7 @@ date: 2023-06-04
 venue: 'ICASSP'
 published: 'true'
 paperurl: https://arxiv.org/abs/2211.00171
-citation: 'Chochlakis, G., Mahajan, G., Baruah, S., Burghardt, K., Lerman, K. and Narayanan, S., 2022. Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats. arXiv preprint arXiv:2211.00171.'
+citation: 'Chochlakis, Georgios, Gireesh Mahajan, Sabyasachee Baruah, Keith Burghardt, Kristina Lerman, and Shrikanth Narayanan. "Using Emotion Embeddings to Transfer Knowledge between Emotions, Languages, and Annotation Formats." In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5. IEEE, 2023.'
 ---
 
 <img src="https://gchochla.github.io/images/demux-cluster.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">

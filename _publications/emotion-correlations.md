@@ -7,7 +7,7 @@ date: 2023-06-04
 venue: 'ICASSP'
 published: 'true'
 paperurl: https://arxiv.org/abs/2210.15842
-citation: 'Chochlakis, G., Mahajan, G., Baruah, S., Burghardt, K., Lerman, K. and Narayanan, S., 2022. Leveraging Label Correlations in a Multi-label Setting: A Case Study in Emotion. arXiv preprint arXiv:2210.15842.'
+citation: 'Chochlakis, Georgios, Gireesh Mahajan, Sabyasachee Baruah, Keith Burghardt, Kristina Lerman, and Shrikanth Narayanan. "Leveraging label correlations in a multi-label setting: A case study in emotion." In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5. IEEE, 2023.'
 ---
 
 <img src="https://gchochla.github.io/images/correlations.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
