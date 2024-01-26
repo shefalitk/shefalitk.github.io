@@ -161,7 +161,7 @@ redirect_from:
   <tr>
     <td><a href="http://gerondelisfoundation.com" target="_blank"><img src="../images/gerondelis.png"></a></td>
     <td><b>Gerondelis Foundation</b><br/>
-      2023-2024 <br/>
+      2023 -- 2024 <br/>
       <i>Scholarship</i>
     </td>
   </tr>
