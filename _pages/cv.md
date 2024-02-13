@@ -86,6 +86,14 @@ redirect_from:
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/" target="_blank"><img src="../images/aws-logo.png"></a></td>
+    <td><b>Amazon Web Services</b>, Seattle, WA, U.S.A. <br/>
+      <i>Applied Science intern</i> <br/>
+      May 2024 -- August 2024 (3mos)<br/>
+      Pending...
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/" target="_blank"><img src="../images/aws-logo.png"></a></td>
     <td><b>Amazon Web Services</b>, Santa Clara, CA, U.S.A. <br/>
       <i>Applied Science intern</i> <br/>
       May 2023 -- August 2023 (3mos)<br/>
@@ -111,7 +119,6 @@ redirect_from:
     </td>
   </tr>
 </table>
-
 
 <table>
   <tr>
@@ -200,15 +207,18 @@ redirect_from:
 
 Languages
 ------
+
 🇬🇷 Greek (Native), 🇬🇧 🇺🇸 English (Fluent), 🇫🇷 French (Paris-Sorbonne C1), 🇪🇸 Spanish (Elementary)
 
 Skills
 ------
+
 * Programming Languages: Now mostly 🐍 Python, but have worked with 🇨 C/C++, ♨️ Java, 🇯🇸 JavaScript, 🐬 SQL
 * Frameworks: 🔥 PyTorch and the likes (NumPy, ...)
 
 Miscellaneous
 -----
+
 * Sports  ⚽ 🏀 👟
 
 * Books 📖 -> popular science🥼  AI🤖  history📜  philosophy💭  crime🔫
