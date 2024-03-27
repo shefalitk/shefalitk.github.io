@@ -120,6 +120,7 @@ redirect_from:
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th colspan=2> Research Experience </th>
@@ -207,20 +208,17 @@ redirect_from:
 
 Languages
 ------
-
 🇬🇷 Greek (Native), 🇬🇧 🇺🇸 English (Fluent), 🇫🇷 French (Paris-Sorbonne C1), 🇪🇸 Spanish (Elementary)
 
 Skills
 ------
-
 * Programming Languages: Now mostly 🐍 Python, but have worked with 🇨 C/C++, ♨️ Java, 🇯🇸 JavaScript, 🐬 SQL
 * Frameworks: 🔥 PyTorch and the likes (NumPy, ...)
 
 Miscellaneous
 -----
-
 * Sports  ⚽ 🏀 👟
 
 * Books 📖 -> popular science🥼  AI🤖  history📜  philosophy💭  crime🔫
 
-* Video Games (sorta)  🐭⚡ ⚽ 🏀 ...
+* Video Games (no time anymore)  🐭⚡ ⚽ 🏀 ...
