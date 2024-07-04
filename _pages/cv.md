@@ -59,7 +59,8 @@ redirect_from:
       <i>Current GPA</i>: <b>4.0</b> / 4.0 <br/>
       <i>Coursework</i>: CSCI-670 (Advanced Analysis of Algorithms), PSYC-626 (Computational Social Sciences), <br/>
       ... CSCI-699 (Grounding Natural Language), CSCI-534 (Affective Computing), <br/>
-      ... EE-546 (Mathematics of High-Dimensional Data; on-going) <br/>
+      ... EE-546 (Math of High-Dimensional Data), CSCI-535 (Multimodal Prob Learning of Communication), <br/>
+      ... CSCI-654 (Crafting a Research Agenda), CSCI-699 (Science of LLMs; upcoming)
     </td>
   </tr>
   <tr>
@@ -86,7 +87,7 @@ redirect_from:
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/" target="_blank"><img src="../images/aws-logo.png"></a></td>
-    <td><b>Amazon Web Services</b>, Seattle, WA, U.S.A. <br/>
+    <td><b>Amazon Web Services</b>, Bellevue, WA, U.S.A. <br/>
       <i>Applied Science intern</i> <br/>
       May 2024 -- August 2024 (3mos)<br/>
       Pending...
@@ -133,8 +134,8 @@ redirect_from:
       <i>Duties</i>: Multilingual & Multimodal Affective Analysis on Social Media <br/>
       ... Resurrected and running the reading group of the lab with 15-20 active members <br/>
       ... Actively mentoring undergraduate and graduate students <br/>
-      ... IEEE K-12 Outreach programs: Presented in Spring 22 to 90 students, *Team Lead* in Fall 22 for approx. 90 students <br/>
-      ... Google ExploreCSR: Student mentor in Spring 23 to 50 students <br/>
+      ... IEEE K-12 Outreach programs: Presented in Spring 22 to approx. 90 students, *Team Lead* in Fall 22 for approx. 90 students <br/>
+      ... Google ExploreCSR: Student mentor in Spring 23<br/>
       <i>Advisor</i>: <a href="https://sail.usc.edu/people/shri.html" target="_blank">Prof. Shri Narayanan</a>
     </td>
   </tr>

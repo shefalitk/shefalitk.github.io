@@ -5,7 +5,7 @@ permalink: /publication/sociolinguistic-bots
 excerpt: 'In this work, we utilize heuristics to identify coordinated inauthentic accounts and detect attitudes, concerns and emotions within their social media posts, collectively known as socio-linguistic characteristics.'
 date: 2024-06-03
 venue: 'ICWSM'
-published: 'accepted'
+published: 'true'
 paperurl: https://arxiv.org/abs/2305.11867
 citation: 'Burghardt, Keith, Ashwin Rao, Siyi Guo, Zihao He, Georgios Chochlakis, Baruah Sabyasachee, Andrew Rojecki, Shri Narayanan, and Kristina Lerman. "Socio-Linguistic Characteristics of Coordinated Inauthentic Accounts." arXiv preprint arXiv:2305.11867 (2023).'
 ---

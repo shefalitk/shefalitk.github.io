@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Georgios Chochlakis"
+title                    : "Yiorgos Chochlakis"
 title_separator          : "-"
-name                     : &name "Georgios Chochlakis"
-description              : &description "CS PhD student at the University of Southern California"
+name                     : &name "Yiorgos (legally Georgios) Chochlakis <br/> (Γιώργος Χοχλάκης ['jorɣos xo'xlakis])"
+description              : &description "AI researcher; CS PhD candidate at USC"
 url                      : https://gchochla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gchochla.github.io"

@@ -3,9 +3,9 @@ title: 'The Strong Pull of Prior Knowledge in Large Language Models and Its Impa
 collection: publications
 permalink: /publication/llm-prior-pull
 excerpt: 'In this work, we design experiments and propose measurements to explicitly quantify the consistency of proxies of LLM priors and their pull on the posteriors. We show that LLMs have strong yet inconsistent priors in emotion recognition that ossify their predictions. We also find that the larger the model, the stronger these effects become. Our results suggest that caution is needed when using ICL with larger LLMs for affect-centered tasks outside their pre-training domain and when interpreting ICL results.'
-date: 2024-03-26
-venue: ''
-published: 'review'
+date: 2024-09-16
+venue: 'ACII 2024'
+published: 'accepted'
 paperurl: https://arxiv.org/abs/2403.17125
 citation: 'Chochlakis, Georgios, Alexandros Potamianos, Kristina Lerman and Shrikanth Narayanan. “The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition.” (2024).'
 ---
