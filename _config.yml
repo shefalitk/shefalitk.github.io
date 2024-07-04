@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yiorgos Chochlakis"
 title_separator          : "-"
-name                     : &name "Yiorgos (legally Georgios) Chochlakis <br/> (Γιώργος Χοχλάκης ['jorɣos xo'xlakis])"
+name                     : &name "Yiorgos Chochlakis"
 description              : &description "AI researcher; CS PhD candidate at USC"
 url                      : https://gchochla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Georgios Chochlakis"
+  name             : "Yiorgos (Georgios) Chochlakis <br/> (Γιώργος Χοχλάκης ['jorɣos xo'xlakis])"
   avatar           : "profile.png"
-  bio              : "CS PhD student at the University of Southern California; ML researcher"
+  bio              : "AI researcher; CS PhD candidate at USC"
   location         : "Los Angeles, CA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
