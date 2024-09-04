@@ -90,7 +90,7 @@ redirect_from:
     <td><b>Amazon Web Services</b>, Bellevue, WA, U.S.A. <br/>
       <i>Applied Science intern</i> <br/>
       May 2024 -- August 2024 (3mos)<br/>
-      <i>Duties</i> Developed methods for robustness in audio-textual classification.
+      <i>Duties</i>: Developed methods for robustness in audio-textual classification.
     </td>
   </tr>
   <tr>
