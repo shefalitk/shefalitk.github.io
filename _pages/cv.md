@@ -98,7 +98,7 @@ redirect_from:
     <td><b>Amazon Web Services</b>, Santa Clara, CA, U.S.A. <br/>
       <i>Applied Science intern</i> <br/>
       May 2023 -- August 2023 (3mos)<br/>
-      <i>Duties</i>: Developed methods for robustness in audio-visual representation learning (<a href="https://www.amazon.science/publications/tackling-missing-modalities-in-audio-visual-representation-learning-using-masked-autoencoders") target="_blank">paper</a>)
+      <i>Duties</i>: Developed methods for robustness in audio-visual representation learning (<a href="https://www.amazon.science/publications/tackling-missing-modalities-in-audio-visual-representation-learning-using-masked-autoencoders" target="_blank">paper</a>)
     </td>
   </tr>
   <tr>
