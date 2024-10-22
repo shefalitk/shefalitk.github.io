@@ -167,6 +167,13 @@ redirect_from:
   <tr>
     <th colspan=2> Honors & Awards </th>
   </tr>
+    <tr>
+    <td><a href="https://sac.usc.edu/credif/" target="_blank"><img src="../images/Capital_One_logo.svg.png"></a></td>
+    <td><b>Capital One</b><br/>
+      2025 <br/>
+      <i>Fellowship</i>
+    </td>
+  </tr>
   <tr>
     <td><a href="http://gerondelisfoundation.com" target="_blank"><img src="../images/gerondelis.png"></a></td>
     <td><b>Gerondelis Foundation</b><br/>

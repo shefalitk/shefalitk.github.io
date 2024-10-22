@@ -7,7 +7,7 @@ date: 2024-09-01
 venue: 'InterSpeech'
 published: 'true'
 paperurl: https://www.amazon.science/publications/tackling-missing-modalities-in-audio-visual-representation-learning-using-masked-autoencoders
-citation: ''
+citation: 'Chochlakis, Georgios, Chandrashekhar Lavania, Prashant Mathur and Kyu Han. “Tackling missing modalities in audio-visual representation learning using masked autoencoders. Interspeech 2024.'
 ---
 
 <img src="https://gchochla.github.io/images/curri-mae.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
@@ -25,6 +25,4 @@ BibTex Citation
  url = {https://www.amazon.science/publications/tackling-missing-modalities-in-audio-visual-representation-learning-using-masked-autoencoders},
  booktitle = {Interspeech 2024},
 }
-}
-
 ```
