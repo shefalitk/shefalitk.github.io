@@ -60,7 +60,8 @@ redirect_from:
       <i>Coursework</i>: CSCI-670 (Advanced Analysis of Algorithms), PSYC-626 (Computational Social Sciences), <br/>
       ... CSCI-699 (Grounding Natural Language), CSCI-534 (Affective Computing), <br/>
       ... EE-546 (Math of High-Dimensional Data), CSCI-535 (Multimodal Prob Learning of Communication), <br/>
-      ... CSCI-654 (Crafting a Research Agenda), CSCI-699 (Science of LLMs; upcoming)
+      ... CSCI-654 (Crafting a Research Agenda), CSCI-699 (Science of LLMs), <br/>
+      ... CSCI-699 (History of Language and Computations; ongoing), CSCI-599 (Evolution; ongoing)
     </td>
   </tr>
   <tr>
