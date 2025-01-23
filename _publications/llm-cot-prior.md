@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/llm-cot-prior
 excerpt: 'In this work, we examine whether "enabling" reasoning also retrieves reasoning priors that remain relatively unchanged despite the evidence in the prompt. We find that, surprisingly, CoT indeed suffers from the same posterior collapse as ICL for larger language models.'
 date: 2024-09-10
-venue: ''
-published: 'review'
+venue: 'ICASSP'
+published: 'accepted'
 paperurl: https://arxiv.org/abs/2409.06173
-citation: 'Chochlakis, Georgios, Niyantha Maruthu Pandiyan, Kristina Lerman, and Shrikanth Narayanan. "Larger Language Models Dont Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks." arXiv preprint arXiv:2409.06173 (2024).'
+citation: 'Chochlakis, Georgios, Niyantha Maruthu Pandiyan, Kristina Lerman, and Shrikanth Narayanan. "Larger Language Models Dont Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks." In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 1-5. IEEE, 2025.'
 ---
 
 <img src="https://gchochla.github.io/images/pull-thumbnail.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
