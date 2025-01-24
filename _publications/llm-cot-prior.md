@@ -3,7 +3,7 @@ title: 'Larger Language Models Dont Care How You Think: Why Chain-of-Thought Pro
 collection: publications
 permalink: /publication/llm-cot-prior
 excerpt: 'In this work, we examine whether "enabling" reasoning also retrieves reasoning priors that remain relatively unchanged despite the evidence in the prompt. We find that, surprisingly, CoT indeed suffers from the same posterior collapse as ICL for larger language models.'
-date: 2024-09-10
+date: 2025-04-06
 venue: 'ICASSP'
 published: 'accepted'
 paperurl: https://arxiv.org/abs/2409.06173
