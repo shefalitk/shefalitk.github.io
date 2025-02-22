@@ -17,7 +17,7 @@ _Abstract_: In-context Learning (ICL) has become the primary method for performi
 BibTex Citation
 -
 ```
-@inproceedings{chochlakis2024larger,
+@inproceedings{chochlakis2025aggregation,
   title={Aggregation Artifacts in Subjective Tasks Collapse Large Language Models Posteriors},
   author={Chochlakis, Georgios and Potamianos, Alexandros and Lerman, Kristina and Narayanan, Shrikanth},
   journal={Proceedings of the 2025 conference of the Nations of the Americas Chapter of the association for computational linguistics},
