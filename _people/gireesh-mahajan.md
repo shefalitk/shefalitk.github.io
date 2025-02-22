@@ -3,9 +3,8 @@ collection: people
 type: "People"
 title: "Gireesh Mahajan"
 permalink: /people/gireesh-mahajan
-start: 2022
-end: 2022
-duration: "6 months"
+start: 'April 2022'
+end: 'November 2022'
 date: 2022-04-13
 current: "Microsoft"
 link: https://www.linkedin.com/in/gireesh-mahajan

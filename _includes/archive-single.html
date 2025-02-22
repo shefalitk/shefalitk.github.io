@@ -37,24 +37,22 @@
     {% if post.collection == 'teaching' %}
     <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'people' %}
-    <tr>
-      <td>
-        <img src="{{ post.image }}" alt="{{ post.name }}">
-      </td>
-      <td>
-        <p>
-          {% if post.end == '' %}
-          Joined on {{ post.start }}.
-          {% elsif post.start == post.end %}
-          Joined on {{ post.start }}. Worked together for approx. {{ post.duration }}.
-          Currently at {{ post.current }}.
-          {% else %}
-          Worked together between {{ post.start }} -- {{ post.end }} (approx. {{ post.duration }}).
-          Currently at {{ post.current }}.
-          {% endif %}
-        </p> <br> Personal webpage: <a href="{{ post.link }}">{{ post.link }}</a>
-      </td>
-    </tr>
+    <table>
+      <tr>
+        <td>
+          <img src="{{ post.image }}" alt="{{ post.name }}">
+        </td>
+        <td>
+          <p>
+            {% if post.end == '' %}
+            Joined on {{ post.start }}.
+            {% else %}
+            Worked together between {{ post.start }} and {{ post.end }}. Currently at {{ post.current }}.
+            {% endif %}
+          </p> <br> Personal webpage: <a href="{{ post.link }}">{{ post.link }}</a>
+        </td>
+      </tr>
+    </table>
     {% elsif post.collection == 'talks' %}
     {% elsif post.collection == 'publications' %}
     {% if post.published == 'review' %}
