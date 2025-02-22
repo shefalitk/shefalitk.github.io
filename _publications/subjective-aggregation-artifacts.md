@@ -7,7 +7,7 @@ date: 2025-04-29
 venue: 'NAACL'
 published: 'accepted'
 paperurl: https://arxiv.org/abs/2410.13776
-citation: 'Chochlakis, Georgios, Alexandros Potamianos, Kristina Lerman, and Shrikanth Narayanan. "Aggregation Artifacts in Subjective Tasks Collapse Large Language Models Posteriors." In Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).'
+citation: 'Chochlakis, Georgios, Alexandros Potamianos, Kristina Lerman, and Shrikanth Narayanan. "Aggregation Artifacts in Subjective Tasks Collapse Large Language Models Posteriors." In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL).'
 ---
 
 <img src="https://gchochla.github.io/images/aggregate-artifacts.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
@@ -17,10 +17,10 @@ _Abstract_: In-context Learning (ICL) has become the primary method for performi
 BibTex Citation
 -
 ```
-@article{chochlakis2024larger,
-  title={Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks},
-  author={Chochlakis, Georgios and Pandiyan, Niyantha Maruthu and Lerman, Kristina and Narayanan, Shrikanth},
-  journal={arXiv preprint arXiv:2409.06173},
-  year={2024}
+@inproceedings{chochlakis2024larger,
+  title={Aggregation Artifacts in Subjective Tasks Collapse Large Language Models Posteriors},
+  author={Chochlakis, Georgios and Potamianos, Alexandros and Lerman, Kristina and Narayanan, Shrikanth},
+  journal={Proceedings of the 2025 conference of the Nations of the Americas Chapter of the association for computational linguistics},
+  year={2025}
 }
 ```
