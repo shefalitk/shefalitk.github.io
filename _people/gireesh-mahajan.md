@@ -1,6 +1,5 @@
 ---
 collection: people
-type: "People"
 title: "Gireesh Mahajan"
 permalink: /people/gireesh-mahajan
 start: 'April 2022'

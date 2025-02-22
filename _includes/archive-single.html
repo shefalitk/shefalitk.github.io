@@ -46,8 +46,20 @@
           <p>
             {% if post.end == '' %}
             Joined on {{ post.start }}.
+
+            {% if post.current != '' %}
+            To join <b>{{ post.current }}</b>.
+            {% endif %}
+
             {% else %}
-            Worked together between {{ post.start }} and {{ post.end }}. Currently at <b>{{ post.current }}</b>.
+            Worked together between {{ post.start }} and {{ post.end }}.
+
+            {% if post.current == '' %}
+            Looking for job opportunities.
+            {% else %}
+            Currently at <b>{{ post.current }}</b>.
+            {% endif %}
+
             {% endif %}
             <br> Personal webpage: <a href="{{ post.link }}">{{ post.link }}</a>
           </p>
