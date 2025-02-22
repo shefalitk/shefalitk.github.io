@@ -37,8 +37,9 @@
     {% if post.collection == 'teaching' %}
     <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.colletion == 'people' %}
-    <img src="{{ post.image }}" alt="{{ post.name }}" style="width: 30%; height: auto; border-radius: 50%;">
-    <p style="float: right;"> <b>{{ post.name }}</b>:
+    <img src="{{ post.image }}" alt="{{ post.name }}"
+      style="display: block; margin-left: auto; margin-right:auto; width: 30%; height: auto;">
+    <p> <b>{{ post.name }}</b>:
       {% if post.end == '' %}
       Joined on {{ post.start }}.
       {% elsif post.start == post.end %}

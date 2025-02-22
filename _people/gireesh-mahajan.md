@@ -3,6 +3,7 @@ name: "Gireesh Mahajan"
 start: 2022
 end: 2022
 duration: "6 months"
+date: 2022-04-13
 currently: "Microsoft"
 link: https://www.linkedin.com/in/gireesh-mahajan
 ---
