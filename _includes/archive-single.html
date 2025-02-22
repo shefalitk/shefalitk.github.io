@@ -47,7 +47,7 @@
             {% if post.end == '' %}
             Joined on {{ post.start }}.
             {% else %}
-            Worked together between {{ post.start }} and {{ post.end }}. Currently at {{ post.current }}.
+            Worked together between {{ post.start }} and {{ post.end }}. Currently at <b>{{ post.current }}</b>.
             {% endif %}
           </p> <br> Personal webpage: <a href="{{ post.link }}">{{ post.link }}</a>
         </td>
