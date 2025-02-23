@@ -133,7 +133,7 @@ redirect_from:
       <i>Graduate Research Assistant</i> at the <i><a href="https://sail.usc.edu/" target="_blank">Signal Analysis and Interpretation Lab</a></i> <br/>
       May 2021 -- Present <br/>
       <i>Duties</i>: Multilingual & Multimodal Affective Analysis on Social Media <br/>
-      ... Resurrected and running the reading group of the lab with 15-20 active members <br/>
+      ... Resurrected the reading group of the lab with 15-20 active members <br/>
       ... Actively mentoring undergraduate and graduate students <br/>
       ... IEEE K-12 Outreach programs: Presented in Spring 22 to approx. 90 students, *Team Lead* in Fall 22 for approx. 90 students <br/>
       ... Google ExploreCSR: Student mentor in Spring 23<br/>
@@ -222,7 +222,7 @@ Languages
 Skills
 ------
 * Programming Languages: Now mostly 🐍 Python, but have worked with 🇨 C/C++, ♨️ Java, 🇯🇸 JavaScript, 🐬 SQL
-* Frameworks: 🔥 PyTorch and the likes (NumPy, ...)
+* Frameworks: 🔥 PyTorch, and the likes (NumPy, ...), 🤗 Huggingface
 
 Miscellaneous
 -----
@@ -230,4 +230,4 @@ Miscellaneous
 
 * Books 📖 -> popular science🥼  AI🤖  history📜  philosophy💭  crime🔫
 
-* Video Games (no time anymore)  🐭⚡ ⚽ 🏀 ...
+* Video Games  🐭⚡ ⚽ 🏀 ...
