@@ -20,10 +20,10 @@ _Abstract_: Detecting emotions expressed in text has become critical to a range 
 <img src="https://gchochla.github.io/images/memo.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
 <br>
 
-
 BibTex Citation
 -
-```
+
+```bibtex
 @INPROCEEDINGS{chochlakis2023leveraging,
   author={Chochlakis, Georgios and Mahajan, Gireesh and Baruah, Sabyasachee and Burghardt, Keith and Lerman, Kristina and Narayanan, Shrikanth},
   booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 

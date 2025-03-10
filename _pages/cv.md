@@ -122,7 +122,6 @@ redirect_from:
   </tr>
 </table>
 
-
 <table>
   <tr>
     <th colspan=2> Research Experience </th>

@@ -18,7 +18,8 @@ _Abstract_: We propose the Vision-and-Augmented-Language Transformer (VAuLT). VA
 
 BibTex Citation
 -
-```
+
+```bibtex
 @article{chochlakis2022vault,
   author = {Chochlakis, Georgios and Srinivasan, Tejas and Thomason, Jesse and Narayanan, Shrikanth},  
   title = {VAuLT: Augmenting the Vision-and-Language Transformer for Sentiment Classification on Social Media},

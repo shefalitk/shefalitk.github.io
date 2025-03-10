@@ -18,7 +18,8 @@ _Abstract_: Current state-of-the-art vision-and-language models are evaluated on
 
 BibTex Citation
 -
-```
+
+```bibtex
 @inproceedings{srinivasan2022climb,
   title={CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks},
   author={Srinivasan, Tejas and Chang, Ting-Yun and Alva, Leticia Leonor Pinto and Chochlakis, Georgios and Rostami, Mohammad and Thomason, Jesse},

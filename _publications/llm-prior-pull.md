@@ -16,7 +16,8 @@ _Abstract_: In-context Learning (ICL) has emerged as a powerful paradigm for per
 
 BibTex Citation
 -
-```
+
+```bibtex
 @misc{chochlakis2024strong,
       title={The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition}, 
       author={Georgios Chochlakis and Alexandros Potamianos and Kristina Lerman and Shrikanth Narayanan},

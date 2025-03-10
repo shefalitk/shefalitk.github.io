@@ -20,7 +20,8 @@ Relevant presentation: [[odp](https://gchochla.github.io/files/rssa2020-presenta
 
 BibTex Citation
 -
-```
+
+```bibtex
 @article{panagiotou2020generating,
   title={Generating {E}levation {S}urface from a {S}ingle {RGB} {R}emotely {S}ensed {I}mage {U}sing {D}eep {L}earning},
   author={Panagiotou, Emmanouil and Chochlakis, Georgios and Grammatikopoulos, Lazaros and Charou, Eleni},

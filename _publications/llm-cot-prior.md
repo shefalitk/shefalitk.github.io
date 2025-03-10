@@ -16,11 +16,12 @@ _Abstract_: In-Context Learning (ICL) in Large Language Models (LLM) has emerged
 
 BibTex Citation
 -
-```
-@article{chochlakis2024larger,
+
+```bibtex
+@inproceedings{chochlakis2025larger,
   title={Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks},
   author={Chochlakis, Georgios and Pandiyan, Niyantha Maruthu and Lerman, Kristina and Narayanan, Shrikanth},
-  journal={arXiv preprint arXiv:2409.06173},
-  year={2024}
+  journal={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025},
+  year={2025}
 }
 ```

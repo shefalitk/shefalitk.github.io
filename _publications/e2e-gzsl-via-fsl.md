@@ -18,7 +18,8 @@ _Abstract_: Contemporary state-of-the-art approaches to Zero-Shot Learning (ZSL)
 
 BibTex Citation
 -
-```
+
+```bibtex
 @article{chochlakis2021endtoend,
   title={End-to-end {G}enerative {Z}ero-shot {L}earning via {F}ew-shot {L}earning},
   author={Chochlakis, Georgios and Georgiou, Efthymios and Potamianos, Alexandros},
