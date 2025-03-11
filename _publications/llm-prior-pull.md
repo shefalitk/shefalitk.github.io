@@ -7,7 +7,7 @@ date: 2024-09-16
 venue: 'ACII'
 published: 'true'
 paperurl: https://arxiv.org/abs/2403.17125
-citation: 'Chochlakis, Georgios, Alexandros Potamianos, Kristina Lerman and Shrikanth Narayanan. “The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition.” (2024).'
+citation: 'Chochlakis, Georgios, Alexandros Potamianos, Kristina Lerman and Shrikanth Narayanan. “The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition.” In 2024 12th International Conference on Affective Computing and Intelligent Interaction (ACII).'
 ---
 
 <img src="https://gchochla.github.io/images/pull-thumbnail.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
