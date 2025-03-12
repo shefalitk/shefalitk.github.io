@@ -169,7 +169,7 @@ redirect_from:
   </tr>
     <tr>
     <td><a href="https://sac.usc.edu/credif/" target="_blank"><img src="../images/Capital_One_logo.svg.png"></a></td>
-    <td><b>Capital One</b><br/>
+    <td><b>CapitalOne</b><br/>
       2025 <br/>
       <i>Fellowship</i>
     </td>
@@ -216,15 +216,18 @@ redirect_from:
 
 Languages
 ------
+
 🇬🇷 Greek (Native), 🇬🇧 🇺🇸 English (Fluent), 🇫🇷 French (Paris-Sorbonne C1), 🇪🇸 Spanish (Elementary)
 
 Skills
 ------
+
 * Programming Languages: Now mostly 🐍 Python, but have worked with 🇨 C/C++, ♨️ Java, 🇯🇸 JavaScript, 🐬 SQL
 * Frameworks: 🔥 PyTorch, and the likes (NumPy, ...), 🤗 Huggingface
 
 Miscellaneous
 -----
+
 * Sports  ⚽ 🏀 👟
 
 * Books 📖 -> popular science🥼  AI🤖  history📜  philosophy💭  crime🔫
