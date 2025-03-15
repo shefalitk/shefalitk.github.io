@@ -21,7 +21,8 @@ BibTex Citation
 @inproceedings{chochlakis2025larger,
   title={Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks},
   author={Chochlakis, Georgios and Pandiyan, Niyantha Maruthu and Lerman, Kristina and Narayanan, Shrikanth},
-  journal={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025},
-  year={2025}
+  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025},
+  year={2025},
+  publisher={IEEE}
 }
 ```
