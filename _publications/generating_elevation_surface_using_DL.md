@@ -7,7 +7,7 @@ date: 2020-06-22
 venue: 'Remote Sensing'
 published: 'true'
 paperurl: https://www.mdpi.com/2072-4292/12/12/2002/pdf
-citation: 'Panagiotou E, Chochlakis G, Grammatikopoulos L, Charou E. Generating Elevation Surface from a Single RGB Remotely Sensed Image Using Deep Learning. Remote Sensing. 2020; 12(12):2002.'
+citation: '*Panagiotou E, *Chochlakis G, Grammatikopoulos L, Charou E. Generating Elevation Surface from a Single RGB Remotely Sensed Image Using Deep Learning. Remote Sensing. 2020; 12(12):2002.'
 ---
 
 <img src="https://www.mdpi.com/remotesensing/remotesensing-12-02002/article_deploy/html/images/remotesensing-12-02002-ag-550.jpg" style="display: block; margin-left: auto; margin-right:auto; width: 70%; height: auto;">
