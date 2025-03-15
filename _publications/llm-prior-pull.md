@@ -18,12 +18,10 @@ BibTex Citation
 -
 
 ```bibtex
-@misc{chochlakis2024strong,
+@inproceedings{chochlakis2024strong,
       title={The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition}, 
       author={Georgios Chochlakis and Alexandros Potamianos and Kristina Lerman and Shrikanth Narayanan},
       year={2024},
-      eprint={2403.17125},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      journal={2024 12th International Conference on Affective Computing and Intelligent Interaction (ACII)},
 }
 ```
