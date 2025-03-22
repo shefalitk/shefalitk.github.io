@@ -1,9 +1,9 @@
 ---
-title: 'gridparse'
+title: "gridparse"
 collection: software
 permalink: /software/gridparse
 excerpt: 'An ArgumentParser that supports your grid-search needs.'
-date: 2025
+date: 2025-03-18
 ---
 
 <img src="https://gchochla.github.io/images/gridparse.svg" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
