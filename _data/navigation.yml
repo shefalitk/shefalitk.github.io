@@ -20,6 +20,9 @@ main:
 
   - title: "People"
     url: /people/
+
+  - title: "Open Source"
+    url: /software/
     
 #   - title: "Guide"
 #     url: /markdown/
