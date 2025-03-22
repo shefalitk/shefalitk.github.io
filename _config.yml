@@ -190,6 +190,9 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
+  software:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
