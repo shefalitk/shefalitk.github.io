@@ -66,6 +66,8 @@
         </td>
       </tr>
     </table>
+    {% elsif post.collection == 'software' %}
+    <p>Source code link: {{ post.link }}</p>
     {% elsif post.collection == 'talks' %}
     {% elsif post.collection == 'publications' %}
     {% if post.published == 'review' %}
