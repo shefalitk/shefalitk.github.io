@@ -6,6 +6,8 @@ start: 'February 2023'
 end: 'June 2023'
 date: 2023-02-06
 current: "Salesforce"
-link: https://www.linkedin.com/in/fazevaib
+linkedin: https://www.linkedin.com/in/fazevaib
 image: https://gchochla.github.io/images/vaibhav.jpeg
+github: fazeVaib
+tags: ["LLM prompting"]
 ---

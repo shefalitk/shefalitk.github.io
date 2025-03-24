@@ -156,7 +156,11 @@ author_profile: true
           {% if post.current != '' %}
             <div class="person-detail">
               <i class="fas fa-briefcase detail-icon"></i>
-              <span>{{ post.current }}</span>
+              {% if post.end != '' %}
+                <span>To join <b>{{ post.current }}</b></span>
+              {% else %}
+                <span><b>{{ post.current }}</b></span>
+              {% endif %}
             </div>
           {% endif %}
           
