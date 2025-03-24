@@ -156,11 +156,7 @@ author_profile: true
           {% if post.current != '' %}
             <div class="person-detail">
               <i class="fas fa-briefcase detail-icon"></i>
-              {% if post.end != '' %}
-                <span>To join <b>{{ post.current }}</b></span>
-              {% else %}
-                <span><b>{{ post.current }}</b></span>
-              {% endif %}
+              <span><b>{{ post.current }}</b></span>
             </div>
           {% endif %}
           
@@ -178,10 +174,12 @@ author_profile: true
             </div>
           {% endif %}
           
-          <div class="person-detail">
-            <i class="fas fa-link detail-icon"></i>
-            <a href="{{ post.link }}" target="_blank">Personal Website</a>
-          </div>
+          {% if post.link %}
+            <div class="person-detail">
+              <i class="fas fa-link detail-icon"></i>
+              <a href="{{ post.link }}" target="_blank">Personal Website</a>
+            </div>
+          {% endif %}
         </div>
         
         <div class="tags-container">
