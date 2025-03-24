@@ -123,95 +123,107 @@ author_profile: true
     border-left: 4px solid #9E9E9E;
     opacity: 0.9;
   }
+  
+  .category-header {
+    border-bottom: 2px solid #0366d6;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #0366d6;
+  }
+  
+  .alumni-section {
+    margin-top: 60px;
+  }
+  
+  .alumni-header {
+    border-bottom: 2px solid #9E9E9E;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    color: #555;
+  }
+  
+  .empty-category {
+    text-align: center;
+    color: #888;
+    font-style: italic;
+    padding: 20px;
+  }
 </style>
 
 {% include base_path %}
 
-<div class="people-grid">
-  {% for post in site.people reversed %}
-    {% assign current = post.end == '' %}
-    <div class="person-card {% if current %}current-member{% else %}past-member{% endif %}">
-      <div class="person-image-container">
-        <img src="{{ post.image }}" alt="{{ post.title }}" class="person-image">
-      </div>
-      <div class="person-info">
-        <h3 class="person-name">{{ post.title }}</h3>
+{% comment %}
+Define categories and associate role titles with them
+The categories are:
 
-        {% if current %}
-          <p class="person-role">Research Collaborator</p>
-        {% else %}
-          <p class="person-role">Former Collaborator</p>
-        {% endif %}
-        
-        <div class="person-details">
-          <div class="person-detail">
-            <i class="fas fa-calendar detail-icon"></i>
-            {% if post.end == '' %}
-              <span>Joined {{ post.start }}</span>
-            {% else %}
-              <span>{{ post.start }} — {{ post.end }}</span>
-            {% endif %}
-          </div>
-          
-          {% if post.current != '' %}
-            <div class="person-detail">
-              <i class="fas fa-briefcase detail-icon"></i>
-              {% if post.end == '' %}
-                <span>To join <b>{{ post.current }}</b></span>
-              {% else %}
-                <span><b>{{ post.current }}</b></span>
-              {% endif %}
-            </div>
-          {% endif %}
-          
-          {% if post.research_interests %}
-            <div class="person-detail">
-              <i class="fas fa-flask detail-icon"></i>
-              <span>{{ post.research_interests }}</span>
-            </div>
-          {% endif %}
-          
-          {% if post.education %}
-            <div class="person-detail">
-              <i class="fas fa-graduation-cap detail-icon"></i>
-              <span>{{ post.education }}</span>
-            </div>
-          {% endif %}
-          
-          {% if post.link %}
-            <div class="person-detail">
-              <i class="fas fa-link detail-icon"></i>
-              <a href="{{ post.link }}" target="_blank">Personal Website</a>
-            </div>
-          {% endif %}
-        </div>
-        
-        <div class="tags-container">
-          {% if post.tags %}
-            {% for tag in post.tags %}
-              <span class="affiliation-tag">{{ tag }}</span>
-            {% endfor %}
-          {% endif %}
-        </div>
-        
-        <div class="person-social">
-          {% if post.github %}
-            <a href="https://github.com/{{ post.github }}" title="GitHub" target="_blank"><i class="fab fa-github social-icon"></i></a>
-          {% endif %}
-          
-          {% if post.linkedin %}
-            <a href="{{ post.linkedin }}" title="LinkedIn" target="_blank"><i class="fab fa-linkedin social-icon"></i></a>
-          {% endif %}
-          
-          {% if post.scholar %}
-            <a href="{{ post.scholar }}" title="Google Scholar" target="_blank"><i class="ai ai-google-scholar social-icon"></i></a>
-          {% endif %}
-          
-          {% if post.twitter %}
-            <a href="https://twitter.com/{{ post.twitter }}" title="Twitter" target="_blank"><i class="fab fa-twitter social-icon"></i></a>
-          {% endif %}
-        </div>
-      </div>
-    </div>
+- phd_student: PhD Students
+- masters_student: Masters Students (default if no category specified)
+- undergrad_student: Undergraduate Students
+- visiting_researcher: Visiting Researchers
+- postdoc: Postdoctoral Researchers
+- faculty: Faculty Members
+{% endcomment %}
+
+{% assign categories = "phd_student,masters_student,undergrad_student,visiting_researcher,postdoc,faculty" | split: "," %}
+{% assign category_titles = "PhD Students,Masters Students,Undergraduate Students,Visiting Researchers,Postdoctoral Researchers,Faculty" | split: "," %}
+{% assign role_titles = "PhD Student,Masters Student,Undergraduate Student,Visiting Researcher,Postdoctoral Researcher,Faculty Member" | split: "," %}
+
+{% comment %}
+Sort people into their respective categories
+For backwards compatibility, we'll assign a default category if one isn't specified
+{% endcomment %}
+
+{% for category in categories %}
+  {% assign category_people = "" | split: "" %}
+  
+  {% for person in site.people %}
+    {% if person.end == '' %}
+      {% if person.category == category or (category == 'masters_student' and person.category == nil) %}
+        {% assign category_people = category_people | push: person %}
+      {% endif %}
+    {% endif %}
   {% endfor %}
+  
+  {% assign category_index = forloop.index0 %}
+  
+  <h2 class="category-header">{{ category_titles[category_index] }}</h2>
+  <div class="people-grid">
+    {% if category_people.size > 0 %}
+      {% for person in category_people %}
+        {% include person-card.html person=person role=role_titles[category_index] %}
+      {% endfor %}
+    {% else %}
+      <p class="empty-category">No {{ category_titles[category_index] | downcase }} at this time.</p>
+    {% endif %}
+  </div>
+{% endfor %}
+
+<!-- Alumni Section -->
+<div class="alumni-section">
+  <h2 class="alumni-header">Alumni</h2>
+  <div class="people-grid">
+    {% assign alumni = "" | split: "" %}
+
+    {% for person in site.people %}
+      {% if person.end != '' %}
+        {% assign alumni = alumni | push: person %}
+      {% endif %}
+    {% endfor %}
+    
+    {% if alumni.size > 0 %}
+      {% for person in alumni %}
+        {% assign role = "Former Collaborator" %}
+        {% if person.category %}
+          {% assign cat_index = categories | findIndex: person.category %}
+          {% if cat_index >= 0 %}
+            {% assign role = "Former " | append: role_titles[cat_index] %}
+          {% endif %}
+        {% endif %}
+        {% include person-card.html person=person role=role %}
+      {% endfor %}
+    {% else %}
+      <p class="empty-category">No alumni yet.</p>
+    {% endif %}
+  </div>
 </div>

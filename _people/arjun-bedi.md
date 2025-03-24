@@ -10,4 +10,5 @@ linkedin: https://www.linkedin.com/in/arjun-bedi-88ab93203/
 image: https://gchochla.github.io/images/arjun-bedi.jpeg
 github: arjunsbedi
 tags: ["Subjective Evaluation", "Self-distillation"]
+category: undergrad_student
 ---

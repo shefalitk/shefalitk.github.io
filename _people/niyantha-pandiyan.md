@@ -10,4 +10,5 @@ linkedin: https://www.linkedin.com/in/niyantha-m
 image: https://gchochla.github.io/images/niyantha-pandiyan.jpeg
 github: niyantha23
 tags: ["In-Context Learning", "Chain of Thought", "SFT", "Bias in LLMs"]
+category: masters_student
 ---

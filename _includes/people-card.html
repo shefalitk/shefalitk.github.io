@@ -1,0 +1,83 @@
+{% assign current = include.person.end == '' %}
+<div class="person-card {% if current %}current-member{% else %}past-member{% endif %}">
+    <div class="person-image-container">
+        <img src="{{ include.person.image }}" alt="{{ include.person.title }}" class="person-image">
+    </div>
+    <div class="person-info">
+        <h3 class="person-name">{{ include.person.title }}</h3>
+        <p class="person-role">{{ include.role | default: "Researcher" }}</p>
+
+        <div class="person-details">
+            <div class="person-detail">
+                <i class="fas fa-calendar detail-icon"></i>
+                {% if current %}
+                <span>Joined {{ include.person.start }}</span>
+                {% else %}
+                <span>{{ include.person.start }} — {{ include.person.end }}</span>
+                {% endif %}
+            </div>
+
+            {% if include.person.current != '' %}
+            <div class="person-detail">
+                <i class="fas fa-briefcase detail-icon"></i>
+                {% if current %}
+                <span>To join <b>{{ include.person.current }}</b></span>
+                {% else %}
+                <span>Now at <b>{{ include.person.current }}</b></span>
+                {% endif %}
+            </div>
+            {% endif %}
+
+            {% if include.person.research_interests %}
+            <div class="person-detail">
+                <i class="fas fa-flask detail-icon"></i>
+                <span>{{ include.person.research_interests }}</span>
+            </div>
+            {% endif %}
+
+            {% if include.person.education %}
+            <div class="person-detail">
+                <i class="fas fa-graduation-cap detail-icon"></i>
+                <span>{{ include.person.education }}</span>
+            </div>
+            {% endif %}
+
+            {% if include.person.link %}
+            <div class="person-detail">
+                <i class="fas fa-link detail-icon"></i>
+                <a href="{{ include.person.link }}" target="_blank">Personal Website</a>
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="tags-container">
+            {% if include.person.tags %}
+            {% for tag in include.person.tags %}
+            <span class="affiliation-tag">{{ tag }}</span>
+            {% endfor %}
+            {% endif %}
+        </div>
+
+        <div class="person-social">
+            {% if include.person.github %}
+            <a href="https://github.com/{{ include.person.github }}" title="GitHub" target="_blank"><i
+                    class="fab fa-github social-icon"></i></a>
+            {% endif %}
+
+            {% if include.person.linkedin %}
+            <a href="{{ include.person.linkedin }}" title="LinkedIn" target="_blank"><i
+                    class="fab fa-linkedin social-icon"></i></a>
+            {% endif %}
+
+            {% if include.person.scholar %}
+            <a href="{{ include.person.scholar }}" title="Google Scholar" target="_blank"><i
+                    class="ai ai-google-scholar social-icon"></i></a>
+            {% endif %}
+
+            {% if include.person.twitter %}
+            <a href="https://twitter.com/{{ include.person.twitter }}" title="Twitter" target="_blank"><i
+                    class="fab fa-twitter social-icon"></i></a>
+            {% endif %}
+        </div>
+    </div>
+</div>

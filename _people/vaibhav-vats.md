@@ -10,4 +10,5 @@ linkedin: https://www.linkedin.com/in/fazevaib
 image: https://gchochla.github.io/images/vaibhav.jpeg
 github: fazeVaib
 tags: ["LLM prompting"]
+category: masters_student
 ---

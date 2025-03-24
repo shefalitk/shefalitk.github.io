@@ -10,4 +10,5 @@ linkedin: https://www.linkedin.com/in/petercwu1
 image: https://gchochla.github.io/images/peter-wu.jpeg
 github: pcwu1
 tags: ["LLM Interpretability"]
+category: masters_student
 ---

@@ -9,5 +9,6 @@ current: "Microsoft"
 linkedin: https://www.linkedin.com/in/gireesh-mahajan
 image: https://gchochla.github.io/images/gireesh.jpeg
 github: gireesh-m
-tags: ["Emotion Recongition", "Masked Language Modeling", "LLMs"]
+tags: ["Emotion Recognition", "Masked Language Modeling", "LLMs"]
+category: undergrad_student
 ---
