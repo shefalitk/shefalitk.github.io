@@ -1,3 +1,5 @@
+{% include base_path %}
+
 {% assign current = include.person.end == '' %}
 <div class="person-card {% if current %}current-member{% else %}past-member{% endif %}">
     <div class="person-image-container">
