@@ -10,5 +10,5 @@ linkedin: https://www.linkedin.com/in/gireesh-mahajan
 image: https://gchochla.github.io/images/gireesh.jpeg
 github: gireesh-m
 tags: ["Emotion Recognition", "Masked Language Modeling", "LLMs"]
-category: undergrad_student
+category: "undergrad_student"
 ---

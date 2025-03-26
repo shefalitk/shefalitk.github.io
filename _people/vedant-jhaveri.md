@@ -10,5 +10,5 @@ linkedin: https://www.linkedin.com/in/vedant-vipul-jhaveri
 image: https://gchochla.github.io/images/vedant-jhaveri.jpeg
 github: vedantjh2
 tags: ["LLM interpretability", "LLM infrastructure"]
-category: masters_student
+category: "masters_student"
 ---
