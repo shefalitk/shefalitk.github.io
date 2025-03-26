@@ -142,147 +142,105 @@ author_profile: true
     margin-bottom: 20px;
     color: #555;
   }
-  
-  .empty-category {
-    text-align: center;
-    color: #888;
-    font-style: italic;
-    padding: 20px;
-  }
 </style>
 
 {% include base_path %}
 
-<!-- PhD Students -->
-<h2 class="category-header">PhD Students</h2>
-<div class="people-grid">
-  {% assign phd_students = "" | split: "" %}
-  {% for person in site.people %}
-    {% if person.end == '' and person.category == "phd_student" %}
-      {% assign phd_students = phd_students | push: person %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if phd_students.size > 0 %}
+{% comment %}
+Collect people by category
+{% endcomment %}
+
+{% assign phd_students = "" | split: "" %}
+{% assign masters_students = "" | split: "" %}
+{% assign undergrad_students = "" | split: "" %}
+{% assign visiting_researchers = "" | split: "" %}
+{% assign postdocs = "" | split: "" %}
+{% assign faculty = "" | split: "" %}
+{% assign alumni = "" | split: "" %}
+
+{% for person in site.people %}
+  {% if person.end != '' %}
+    {% assign alumni = alumni | push: person %}
+  {% elsif person.category == "phd_student" %}
+    {% assign phd_students = phd_students | push: person %}
+  {% elsif person.category == "undergrad_student" %}
+    {% assign undergrad_students = undergrad_students | push: person %}
+  {% elsif person.category == "visiting_researcher" %}
+    {% assign visiting_researchers = visiting_researchers | push: person %}
+  {% elsif person.category == "postdoc" %}
+    {% assign postdocs = postdocs | push: person %}
+  {% elsif person.category == "faculty" %}
+    {% assign faculty = faculty | push: person %}
+  {% else %}
+    {% assign masters_students = masters_students | push: person %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+Display categories only if they have members
+{% endcomment %}
+
+{% if phd_students.size > 0 %}
+  <h2 class="category-header">PhD Students</h2>
+  <div class="people-grid">
     {% for person in phd_students %}
       {% include person-card.html person=person role="PhD Student" %}
     {% endfor %}
-  {% else %}
-    <p class="empty-category">No PhD students at this time.</p>
-  {% endif %}
-</div>
+  </div>
+{% endif %}
 
-<!-- Masters Students -->
-<h2 class="category-header">Masters Students</h2>
-<div class="people-grid">
-  {% assign masters_students = "" | split: "" %}
-  {% for person in site.people %}
-    {% if person.end == '' and (person.category == "masters_student" or person.category == nil) %}
-      {% assign masters_students = masters_students | push: person %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if masters_students.size > 0 %}
+{% if masters_students.size > 0 %}
+  <h2 class="category-header">Masters Mentees</h2>
+  <div class="people-grid">
     {% for person in masters_students %}
       {% include person-card.html person=person role="Masters Student" %}
     {% endfor %}
-  {% else %}
-    <p class="empty-category">No masters students at this time.</p>
-  {% endif %}
-</div>
+  </div>
+{% endif %}
 
-<!-- Undergraduate Students -->
-<h2 class="category-header">Undergraduate Students</h2>
-<div class="people-grid">
-  {% assign undergrad_students = "" | split: "" %}
-  {% for person in site.people %}
-    {% if person.end == '' and person.category == "undergrad_student" %}
-      {% assign undergrad_students = undergrad_students | push: person %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if undergrad_students.size > 0 %}
+{% if undergrad_students.size > 0 %}
+  <h2 class="category-header">Undergraduate Mentees</h2>
+  <div class="people-grid">
     {% for person in undergrad_students %}
       {% include person-card.html person=person role="Undergraduate Student" %}
     {% endfor %}
-  {% else %}
-    <p class="empty-category">No undergraduate students at this time.</p>
-  {% endif %}
-</div>
+  </div>
+{% endif %}
 
-<!-- Visiting Researchers -->
-<h2 class="category-header">Visiting Researchers</h2>
-<div class="people-grid">
-  {% assign visiting_researchers = "" | split: "" %}
-  {% for person in site.people %}
-    {% if person.end == '' and person.category == "visiting_researcher" %}
-      {% assign visiting_researchers = visiting_researchers | push: person %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if visiting_researchers.size > 0 %}
+{% if visiting_researchers.size > 0 %}
+  <h2 class="category-header">Visiting Researchers</h2>
+  <div class="people-grid">
     {% for person in visiting_researchers %}
       {% include person-card.html person=person role="Visiting Researcher" %}
     {% endfor %}
-  {% else %}
-    <p class="empty-category">No visiting researchers at this time.</p>
-  {% endif %}
-</div>
+  </div>
+{% endif %}
 
-<!-- Postdoctoral Researchers -->
-<h2 class="category-header">Postdoctoral Researchers</h2>
-<div class="people-grid">
-  {% assign postdocs = "" | split: "" %}
-  {% for person in site.people %}
-    {% if person.end == '' and person.category == "postdoc" %}
-      {% assign postdocs = postdocs | push: person %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if postdocs.size > 0 %}
+{% if postdocs.size > 0 %}
+  <h2 class="category-header">Postdoctoral Researchers</h2>
+  <div class="people-grid">
     {% for person in postdocs %}
       {% include person-card.html person=person role="Postdoctoral Researcher" %}
     {% endfor %}
-  {% else %}
-    <p class="empty-category">No postdoctoral researchers at this time.</p>
-  {% endif %}
-</div>
+  </div>
+{% endif %}
 
-<!-- Faculty -->
-<h2 class="category-header">Faculty</h2>
-<div class="people-grid">
-  {% assign faculty = "" | split: "" %}
-  {% for person in site.people %}
-    {% if person.end == '' and person.category == "faculty" %}
-      {% assign faculty = faculty | push: person %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if faculty.size > 0 %}
+{% if faculty.size > 0 %}
+  <h2 class="category-header">Faculty</h2>
+  <div class="people-grid">
     {% for person in faculty %}
       {% include person-card.html person=person role="Faculty Member" %}
     {% endfor %}
-  {% else %}
-    <p class="empty-category">No faculty at this time.</p>
-  {% endif %}
-</div>
+  </div>
+{% endif %}
 
-<!-- Alumni Section -->
-<div class="alumni-section">
-  <h2 class="alumni-header">Alumni</h2>
-  <div class="people-grid">
-    {% assign alumni = "" | split: "" %}
-
-    {% for person in site.people %}
-      {% if person.end != '' %}
-        {% assign alumni = alumni | push: person %}
-      {% endif %}
-    {% endfor %}
-    
-    {% if alumni.size > 0 %}
+{% if alumni.size > 0 %}
+  <div class="alumni-section">
+    <h2 class="alumni-header">Alumni</h2>
+    <div class="people-grid">
       {% for person in alumni %}
         {% assign role = "Former Collaborator" %}
-        
+
         {% if person.category == "phd_student" %}
           {% assign role = "Former PhD Student" %}
         {% elsif person.category == "masters_student" %}
@@ -299,8 +257,6 @@ author_profile: true
         
         {% include person-card.html person=person role=role %}
       {% endfor %}
-    {% else %}
-      <p class="empty-category">No alumni yet.</p>
-    {% endif %}
+    </div>
   </div>
-</div>
+{% endif %}
