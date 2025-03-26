@@ -244,9 +244,9 @@ Display categories only if they have members
         {% if person.category == "phd_student" %}
           {% assign role = "Former PhD Student" %}
         {% elsif person.category == "masters_student" %}
-          {% assign role = "Former Masters Student" %}
+          {% assign role = "Former Masters Mentee" %}
         {% elsif person.category == "undergrad_student" %}
-          {% assign role = "Former Undergraduate Student" %}
+          {% assign role = "Former Undergraduate Mentee" %}
         {% elsif person.category == "visiting_researcher" %}
           {% assign role = "Former Visiting Researcher" %}
         {% elsif person.category == "postdoc" %}
