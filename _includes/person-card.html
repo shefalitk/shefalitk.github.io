@@ -22,7 +22,7 @@
             {% if include.person.current != '' %}
             <div class="person-detail">
                 <i class="fas fa-briefcase detail-icon"></i>
-                {% if end != '' %}
+                {% if current %}
                 <span>To join <b>{{ include.person.current }}</b></span>
                 {% else %}
                 <span>Now at <b>{{ include.person.current }}</b></span>
