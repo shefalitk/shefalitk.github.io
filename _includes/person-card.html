@@ -23,9 +23,9 @@
             <div class="person-detail">
                 <i class="fas fa-briefcase detail-icon"></i>
                 {% if current %}
-                <span>To join <b>{{ include.person.current }}</b></span>
+                <span>To join <b>{{ include.person.current }}</b> {{ current }} </span>
                 {% else %}
-                <span>Now at <b>{{ include.person.current }}</b></span>
+                <span>Now at <b>{{ include.person.current }}</b> {{ current }} </span>
                 {% endif %}
             </div>
             {% endif %}
