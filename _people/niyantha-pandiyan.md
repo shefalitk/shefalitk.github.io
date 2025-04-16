@@ -4,7 +4,7 @@ title: "Niyantha Maruthu Pandiyan"
 permalink: /people/niyantha-pandiyan
 start: 'April 2024'
 end: ''
-current: ''
+current: "fundamental.ai"
 date: 2024-04-17
 linkedin: https://www.linkedin.com/in/niyantha-m
 image: https://gchochla.github.io/images/niyantha-pandiyan.jpeg
