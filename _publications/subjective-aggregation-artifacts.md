@@ -21,10 +21,21 @@ BibTex Citation
 
 ```bibtex
 @inproceedings{chochlakis2025aggregation,
-  title={Aggregation Artifacts in Subjective Tasks Collapse Large Language Models Posteriors},
-  author={Chochlakis, Georgios and Potamianos, Alexandros and Lerman, Kristina and Narayanan, Shrikanth},
-  booktitle={Proceedings of the 2025 conference of the Nations of the Americas Chapter of the association for computational linguistics},
-  year={2025},
-  publisher={ACL}
+    title = "Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors",
+    author = "Chochlakis, Georgios  and
+      Potamianos, Alexandros  and
+      Lerman, Kristina  and
+      Narayanan, Shrikanth",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.284/",
+    pages = "5513--5528",
+    ISBN = "979-8-89176-189-6",
 }
 ```
