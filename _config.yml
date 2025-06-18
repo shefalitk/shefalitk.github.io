@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiorgos Chochlakis"
+title                    : "Shefali Tushar Kulkarni"
 title_separator          : "-"
-name                     : &name "Yiorgos Chochlakis"
-description              : &description "AI researcher; CS PhD candidate at USC"
-url                      : https://gchochla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shefali Kulkarni"
+description              : &description "Network researcher; CS PhD student at USC"
+url                      : https://shefalitk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gchochla.github.io"
+repository               : "shefalitk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiorgos (Georgios) Chochlakis <br/> (Γιώργος Χοχλάκης ['jorɣos xo'xlakis])"
-  avatar           : "profile_new_2.png"
-  bio              : "AI researcher; CS PhD fellow at USC"
+  name             : "Shefali Tushar Kulkarni <br/> (शेफाली कुलकर्णी)"
+  avatar           : "profile.JPG"
+  bio              : "Network researcher; CS PhD student at USC"
   location         : "Los Angeles, CA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=z1k5qo8AAAAJ"
-  email            : "georgioschochlakis@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dlMEraUAAAAJ&hl=en"
+  email            : "shefalit@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://thinking-ai-aloud.blogspot.com/"
-  bitbucket        : "gchochla"
+  uri              : #"https://thinking-ai-aloud.blogspot.com/"
+  bitbucket        : #"gchochla"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gchochla"
+  github           : "shefalitk"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "georgios-chochlakis"
+  linkedin         : "www.linkedin.com/in/shefali-tushar-kulkarni/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 10935152/georgios-chochlakis
+  stackoverflow    : #10935152/georgios-chochlakis
   steam            :
   tumblr           :
-  twitter          : "gchochla"
+  twitter          : #"gchochla"
   vine             :
   weibo            :
   xing             :

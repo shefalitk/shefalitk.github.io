@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
 #   - title: "Teaching"
 #     url: /teaching/    
@@ -15,14 +15,14 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "Résumé"
-    url: /cv/
+  # - title: "Résumé"
+  #   url: /cv/
 
-  - title: "People"
-    url: /people/
+  # - title: "People"
+  #   url: /people/
 
-  - title: "Software"
-    url: /software/
+  # - title: "Software"
+  #   url: /software/
     
 #   - title: "Guide"
 #     url: /markdown/
