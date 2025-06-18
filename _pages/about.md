@@ -18,4 +18,4 @@ For my under graduate thesis, I worked on a AI driven anti-missile-system superv
 
 Beyond ML and CS, I find great pleasure in singing, painting and discussing Indian Philosophy, Astronomy, and most other sciences.
 
-<div> View my resume in <a href="https://gchochla.github.io/files/resume.pdf" target="_blank"><img src="../images/PDF_icon.png" style="width:10px"></a> </div>
+<div> View my resume in <a href="https://gchochla.github.io/files/resume.pdf" target="_blank"><img src="../images/PDF_icon.png" style="width:20px"></a> </div>
