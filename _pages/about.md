@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome 👋! You have wandered into my personal website. Here, you will find the latest and greatest news on moi. My name is Georgios (but please call me *Yiorgos*) Chochlakis.
+Welcome 👋! My name is Shefali.
 
 I am a *Computer Science Ph.D. student* at the *University of Southern California* and a graduate research assistant at the [Analysis of Network Traffic lab](https://ant.isi.edu), supervised by Dr. [John Heidemann](https://ant.isi.edu/~johnh/). I am currently interested and actively publishing on Internet Measurement, Mobile Networks and using DNN for solving Network Issues. 
 
